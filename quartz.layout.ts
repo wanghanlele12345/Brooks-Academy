@@ -61,6 +61,14 @@ export const defaultContentPageLayout: PageLayout = {
             if (indexA !== -1) return -1
             if (indexB !== -1) return 1
           }
+
+          if (a.displayName.startsWith("PART") && !b.displayName.startsWith("PART")) {
+            return -1
+          }
+          if (!a.displayName.startsWith("PART") && b.displayName.startsWith("PART")) {
+            return 1
+          }
+
           return a.displayName.localeCompare(b.displayName, undefined, {
             numeric: true,
             sensitivity: "base",
@@ -134,6 +142,14 @@ export const defaultListPageLayout: PageLayout = {
             if (indexA !== -1) return -1
             if (indexB !== -1) return 1
           }
+
+          if (a.displayName.startsWith("PART") && !b.displayName.startsWith("PART")) {
+            return -1
+          }
+          if (!a.displayName.startsWith("PART") && b.displayName.startsWith("PART")) {
+            return 1
+          }
+
           return a.displayName.localeCompare(b.displayName, undefined, {
             numeric: true,
             sensitivity: "base",
