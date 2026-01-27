@@ -63,19 +63,20 @@ export const defaultContentPageLayout: PageLayout = {
             if (indexB !== -1) return 1
           }
 
-          if (a.displayName.startsWith("PART") && !b.displayName.startsWith("PART")) {
-            return -1
-          }
-          if (!a.displayName.startsWith("PART") && b.displayName.startsWith("PART")) {
-            return 1
-          }
+          // PART files should always come before CHAPTER files
+          const aIsPart = a.displayName.startsWith("PART")
+          const bIsPart = b.displayName.startsWith("PART")
+          const aIsChapter = a.displayName.startsWith("CHAPTER")
+          const bIsChapter = b.displayName.startsWith("CHAPTER")
 
-          if (a.displayName.startsWith("CHAPTER") && !b.displayName.startsWith("CHAPTER")) {
-            return 1
-          }
-          if (!a.displayName.startsWith("CHAPTER") && b.displayName.startsWith("CHAPTER")) {
-            return -1
-          }
+          if (aIsPart && bIsChapter) return -1
+          if (aIsChapter && bIsPart) return 1
+
+          if (aIsPart && !bIsPart) return -1
+          if (!aIsPart && bIsPart) return 1
+
+          if (aIsChapter && !bIsChapter) return 1
+          if (!aIsChapter && bIsChapter) return -1
 
           return a.displayName.localeCompare(b.displayName, undefined, {
             numeric: true,
@@ -153,19 +154,20 @@ export const defaultListPageLayout: PageLayout = {
             if (indexB !== -1) return 1
           }
 
-          if (a.displayName.startsWith("PART") && !b.displayName.startsWith("PART")) {
-            return -1
-          }
-          if (!a.displayName.startsWith("PART") && b.displayName.startsWith("PART")) {
-            return 1
-          }
+          // PART files should always come before CHAPTER files
+          const aIsPart = a.displayName.startsWith("PART")
+          const bIsPart = b.displayName.startsWith("PART")
+          const aIsChapter = a.displayName.startsWith("CHAPTER")
+          const bIsChapter = b.displayName.startsWith("CHAPTER")
 
-          if (a.displayName.startsWith("CHAPTER") && !b.displayName.startsWith("CHAPTER")) {
-            return 1
-          }
-          if (!a.displayName.startsWith("CHAPTER") && b.displayName.startsWith("CHAPTER")) {
-            return -1
-          }
+          if (aIsPart && bIsChapter) return -1
+          if (aIsChapter && bIsPart) return 1
+
+          if (aIsPart && !bIsPart) return -1
+          if (!aIsPart && bIsPart) return 1
+
+          if (aIsChapter && !bIsChapter) return 1
+          if (!aIsChapter && bIsChapter) return -1
 
           return a.displayName.localeCompare(b.displayName, undefined, {
             numeric: true,
