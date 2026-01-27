@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "AL BROOKS VALT",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,32 +23,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Inter",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
+          light: "#ffffff",
+          lightgray: "#f5f5f5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          secondary: "#dcb158", // Brooks Gold
+          tertiary: "#fcd34d", // Lighter Gold
+          highlight: "rgba(220, 177, 88, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0b0c10", // Deep Dark Background
+          lightgray: "#1f2833", // Dark Sidebar/Borders
+          gray: "#66fcf1", // Cyan/Gray for specific UI elements or #c5c6c7
+          darkgray: "#c5c6c7", // Body Text
+          dark: "#ffffff", // Main Headings
+          secondary: "#dcb158", // Brooks Gold (Active/Links)
+          tertiary: "#fcd34d", // Lighter Gold (Hover)
+          highlight: "rgba(220, 177, 88, 0.15)",
+          textHighlight: "#dcb15888",
         },
       },
     },

@@ -4,12 +4,12 @@
   .page > #quartz-body {
     // Shift page position when toggling Explorer on mobile.
     & > :not(.sidebar.left:has(.explorer)) {
-      transition: transform 300ms ease-in-out;
+      transition: transform 0.5s ease-in-out;
     }
 
     &.lock-scroll > :not(.sidebar.left:has(.explorer)) {
       transform: translateX(100dvw);
-      transition: transform 300ms ease-in-out;
+      transition: transform 0.5s ease-in-out;
     }
 
     // Sticky top bar (stays in place when scrolling down on mobile).
@@ -34,6 +34,9 @@
 
   min-height: 1.2rem;
   flex: 0 1 auto;
+  transition:
+    flex 0.5s ease,
+    max-height 0.5s ease;
 
   &.collapsed {
     flex: 0 1 1.2rem;
@@ -45,7 +48,7 @@
 
   & .fold {
     margin-left: 0.5rem;
-    transition: transform 0.3s ease;
+    transition: transform 0.5s ease;
     opacity: 0.8;
   }
 
@@ -143,7 +146,7 @@ button.desktop-explorer {
     display: grid;
     grid-template-rows: 0fr;
     transition-property: grid-template-rows, visibility;
-    transition-duration: 0.3s;
+    transition-duration: 0.5s;
     transition-timing-function: ease-in-out;
   }
 
@@ -252,8 +255,8 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       width: 100vw;
       transform: translateX(-100vw);
       transition:
-        transform 200ms ease,
-        visibility 200ms ease;
+        transform 0.5s ease,
+        visibility 0.5s ease;
       overflow: hidden;
       padding: 4rem 0 2rem 0;
       height: 100dvh;

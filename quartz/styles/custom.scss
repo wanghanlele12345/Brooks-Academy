@@ -1,3 +1,165 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Brooks Academy Theme Overrides
+
+// 1. Layout & Grid
+:root {
+  --side-panel-width: 380px;
+}
+
+@media all and (min-width: 1200px) {
+  .page > #quartz-body {
+    grid-template-columns: var(--side-panel-width) auto 300px;
+    column-gap: 3rem;
+  }
+}
+
+// 2. Typography & Colors
+body {
+  font-feature-settings: "salt", "ss01";
+}
+
+h1, .article-title {
+  color: var(--dark) !important;
+  font-weight: 800;
+}
+
+h2, h3, h4 {
+  color: var(--secondary) !important; // Gold subheaders
+  margin-top: 2rem;
+}
+
+// Page Title (Top left)
+.page-title a {
+    color: var(--secondary) !important;
+    background: none !important;
+    -webkit-text-fill-color: initial !important;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+// 3. Explorer (Left Sidebar)
+.explorer {
+  border: none !important;
+}
+
+.explorer-toggle h2 {
+    color: var(--darkgray) !important;
+    text-transform: uppercase;
+    font-size: 0.75rem !important;
+    letter-spacing: 0.15em;
+    font-weight: 700;
+}
+
+.explorer-content {
+  font-size: 0.85rem;
+}
+
+.explorer-ul ul li {
+  margin-bottom: 6px;
+  padding-left: 4px;
+}
+
+.explorer-ul ul li a, 
+.explorer-ul ul li .folder-button {
+  white-space: normal !important; 
+  height: auto !important;
+  line-height: 1.4 !important;
+  display: inline-block;
+  padding: 2px 0;
+  color: var(--darkgray) !important;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.explorer-ul ul li a:hover,
+.explorer-ul ul li .folder-button:hover {
+  color: var(--secondary) !important;
+  transform: translateX(2px);
+}
+
+.explorer-ul ul li a.active {
+  color: var(--secondary) !important;
+  font-weight: 600;
+}
+
+// Folders as "Sections"
+.explorer .folder-container {
+  align-items: flex-start !important;
+  margin-bottom: 4px;
+}
+
+.explorer .folder-icon {
+  margin-top: 6px;
+  color: var(--secondary);
+  width: 10px;
+  height: 10px;
+}
+
+.explorer .folder-title {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--secondary) !important;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+
+// 4. Main Content Styling
+blockquote {
+  background-color: var(--lightgray);
+  border-left: 4px solid var(--secondary) !important;
+  padding: 1.2rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin: 2rem 0;
+  color: var(--darkgray);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  
+  p {
+    margin: 0;
+    font-style: italic;
+    line-height: 1.6;
+  }
+}
+
+// Image styling matching the clean look
+img {
+    border-radius: 4px;
+    margin: 2rem 0;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+}
+
+// 5. Scrollbar
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--lightgray);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary);
+}
+
+// 6. Navigation items
+.breadcrumbs {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 2rem;
+}
+
+.breadcrumbs a {
+    color: var(--gray) !important;
+}
+
+.breadcrumbs .current {
+    color: var(--secondary) !important;
+}
