@@ -65,10 +65,10 @@ export const defaultContentPageLayout: PageLayout = {
           }
 
           // PART files should always come before CHAPTER files
-          const aIsPart = a.displayName.startsWith("PART")
-          const bIsPart = b.displayName.startsWith("PART")
-          const aIsChapter = a.displayName.startsWith("CHAPTER")
-          const bIsChapter = b.displayName.startsWith("CHAPTER")
+          const aIsPart = a.displayName.includes("PART")
+          const bIsPart = b.displayName.includes("PART")
+          const aIsChapter = a.displayName.includes("CHAPTER")
+          const bIsChapter = b.displayName.includes("CHAPTER")
 
           if (aIsPart && bIsChapter) return -1
           if (aIsChapter && bIsPart) return 1
@@ -90,13 +90,13 @@ export const defaultContentPageLayout: PageLayout = {
         if (nameOrder.includes(b.displayName)) return 1
 
         if (a.isFolder && !b.isFolder) {
-          if (b.displayName.startsWith("PART")) return 1
-          if (b.displayName.startsWith("CHAPTER")) return -1
+          if (b.displayName.includes("PART")) return 1
+          if (b.displayName.includes("CHAPTER")) return -1
           return -1
         }
         if (!a.isFolder && b.isFolder) {
-          if (a.displayName.startsWith("PART")) return -1
-          if (a.displayName.startsWith("CHAPTER")) return 1
+          if (a.displayName.includes("PART")) return -1
+          if (a.displayName.includes("CHAPTER")) return 1
           return 1
         }
 
@@ -135,10 +135,10 @@ export const defaultListPageLayout: PageLayout = {
       sortFn: (a, b) => {
         const nameOrder = ["Introduction", "List of Terms Used in This Book"]
         if (a.isFolder && b.isFolder) {
-          if (a.displayName.startsWith("PART") && !b.displayName.startsWith("PART")) {
+          if (a.displayName.includes("PART") && !b.displayName.includes("PART")) {
             return -1
           }
-          if (!a.displayName.startsWith("PART") && b.displayName.startsWith("PART")) {
+          if (!a.displayName.includes("PART") && b.displayName.includes("PART")) {
             return 1
           }
           return a.displayName.localeCompare(b.displayName, undefined, {
@@ -157,10 +157,10 @@ export const defaultListPageLayout: PageLayout = {
           }
 
           // PART files should always come before CHAPTER files
-          const aIsPart = a.displayName.startsWith("PART")
-          const bIsPart = b.displayName.startsWith("PART")
-          const aIsChapter = a.displayName.startsWith("CHAPTER")
-          const bIsChapter = b.displayName.startsWith("CHAPTER")
+          const aIsPart = a.displayName.includes("PART")
+          const bIsPart = b.displayName.includes("PART")
+          const aIsChapter = a.displayName.includes("CHAPTER")
+          const bIsChapter = b.displayName.includes("CHAPTER")
 
           if (aIsPart && bIsChapter) return -1
           if (aIsChapter && bIsPart) return 1
@@ -182,13 +182,13 @@ export const defaultListPageLayout: PageLayout = {
         if (nameOrder.includes(b.displayName)) return 1
 
         if (a.isFolder && !b.isFolder) {
-          if (b.displayName.startsWith("PART")) return 1
-          if (b.displayName.startsWith("CHAPTER")) return -1
+          if (b.displayName.includes("PART")) return 1
+          if (b.displayName.includes("CHAPTER")) return -1
           return -1
         }
         if (!a.isFolder && b.isFolder) {
-          if (a.displayName.startsWith("PART")) return -1
-          if (a.displayName.startsWith("CHAPTER")) return 1
+          if (a.displayName.includes("PART")) return -1
+          if (a.displayName.includes("CHAPTER")) return 1
           return 1
         }
 
