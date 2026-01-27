@@ -13,19 +13,19 @@ layout: page
   Explore the comprehensive guides and chapters below to master the art of trading reversals.
 </div>
 
-## 📚 The Book
+## 📚 Course Content
 
-*   **[[Trading Price Action Reversals/book/index|Trading Price Action Reversals - Full Index]]**
-    *   *Access the complete list of chapters and sections.*
-*   **[[Trading Price Action Reversals/book/00-Contents|Table of Contents]]**
-*   **[[Trading Price Action Reversals/book/01-List of Terms Used in This Book|List of Terms]]**
+*   **[[Trading Price Action Reversals/PART I - Trend Reversals A Trend Becoming an Opposite Trend/00 - PART I - Trend Reversals A Trend Becoming an Opposite Trend|PART I: Trend Reversals]]**
+    *   *A Trend Becoming an Opposite Trend*
+*   **[[Trading Price Action Reversals/PART II - Day Trading/00 - PART II - Day Trading|PART II: Day Trading]]**
+*   **[[Trading Price Action Reversals/PART III - The First Hour (The Opening Range)/00 - PART III - The First Hour (The Opening Range)|PART III: The First Hour]]**
+    *   *The Opening Range*
+*   **[[Trading Price Action Reversals/PART IV - Putting It All Together/00 - PART IV - Putting It All Together|PART IV: Putting It All Together]]**
 
-## 🔍 Featured Chapters
+## 🔍 Key Resources
 
-*   **[[Trading Price Action Reversals/book/04-CHAPTER 1 - Example of How to Trade a Reversal|Chapter 1: Example of How to Trade a Reversal]]**
-*   **[[Trading Price Action Reversals/book/06-CHAPTER 3 - Major Trend Reversal|Chapter 3: Major Trend Reversal]]**
-*   **[[Trading Price Action Reversals/book/08-CHAPTER 5 - Wedges and Other Three-Push Reversal Patterns|Chapter 5: Wedges and Three-Push Patterns]]**
-*   **[[Trading Price Action Reversals/book/10-CHAPTER 7 - Final Flags|Chapter 7: Final Flags]]**
+*   **[[Trading Price Action Reversals/Introduction|Introduction]]**
+*   **[[Trading Price Action Reversals/List of Terms Used in This Book|List of Terms Used in This Book]]**
 
 ---
 *Built with Quartz & Custom Styling.*
