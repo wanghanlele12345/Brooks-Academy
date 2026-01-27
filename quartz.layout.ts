@@ -38,6 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      folderDefaultState: "open",
       filterFn: (node) => node.displayName !== "Images",
       sortFn: (a, b) => {
         const nameOrder = ["Introduction", "List of Terms Used in This Book"]
@@ -129,6 +130,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      folderDefaultState: "open",
       filterFn: (node) => node.displayName !== "Images",
       sortFn: (a, b) => {
         const nameOrder = ["Introduction", "List of Terms Used in This Book"]
