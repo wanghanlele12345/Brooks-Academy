@@ -38,6 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      filterFn: (node) => node.displayName !== "Images",
       sortFn: (a, b) => {
         const nameOrder = ["Introduction", "List of Terms Used in This Book"]
         if (a.isFolder && b.isFolder) {
@@ -69,6 +70,13 @@ export const defaultContentPageLayout: PageLayout = {
             return 1
           }
 
+          if (a.displayName.startsWith("CHAPTER") && !b.displayName.startsWith("CHAPTER")) {
+            return 1
+          }
+          if (!a.displayName.startsWith("CHAPTER") && b.displayName.startsWith("CHAPTER")) {
+            return -1
+          }
+
           return a.displayName.localeCompare(b.displayName, undefined, {
             numeric: true,
             sensitivity: "base",
@@ -79,13 +87,14 @@ export const defaultContentPageLayout: PageLayout = {
         if (nameOrder.includes(a.displayName)) return -1
         if (nameOrder.includes(b.displayName)) return 1
 
-        // Default: folders first
         if (a.isFolder && !b.isFolder) {
           if (b.displayName.startsWith("PART")) return 1
+          if (b.displayName.startsWith("CHAPTER")) return -1
           return -1
         }
         if (!a.isFolder && b.isFolder) {
           if (a.displayName.startsWith("PART")) return -1
+          if (a.displayName.startsWith("CHAPTER")) return 1
           return 1
         }
 
@@ -119,6 +128,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
+      filterFn: (node) => node.displayName !== "Images",
       sortFn: (a, b) => {
         const nameOrder = ["Introduction", "List of Terms Used in This Book"]
         if (a.isFolder && b.isFolder) {
@@ -150,6 +160,13 @@ export const defaultListPageLayout: PageLayout = {
             return 1
           }
 
+          if (a.displayName.startsWith("CHAPTER") && !b.displayName.startsWith("CHAPTER")) {
+            return 1
+          }
+          if (!a.displayName.startsWith("CHAPTER") && b.displayName.startsWith("CHAPTER")) {
+            return -1
+          }
+
           return a.displayName.localeCompare(b.displayName, undefined, {
             numeric: true,
             sensitivity: "base",
@@ -160,13 +177,14 @@ export const defaultListPageLayout: PageLayout = {
         if (nameOrder.includes(a.displayName)) return -1
         if (nameOrder.includes(b.displayName)) return 1
 
-        // Default: folders first
         if (a.isFolder && !b.isFolder) {
           if (b.displayName.startsWith("PART")) return 1
+          if (b.displayName.startsWith("CHAPTER")) return -1
           return -1
         }
         if (!a.isFolder && b.isFolder) {
           if (a.displayName.startsWith("PART")) return -1
+          if (a.displayName.startsWith("CHAPTER")) return 1
           return 1
         }
 
