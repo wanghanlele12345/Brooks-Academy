@@ -199,10 +199,19 @@ async function setupExplorer(currentSlug: FullSlug) {
     const folderPaths = trie.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {
       const previousState = oldIndex.get(path)
+      let collapsed = previousState === undefined ? opts.folderDefaultState === "collapsed" : previousState
+
+      // Custom logic: specific folders collapsed by default to reduce clutter
+      if (previousState === undefined && path.startsWith("trading-price-action-trends")) {
+        const parts = path.split("/")
+        if (parts.length >= 2) {
+          collapsed = true
+        }
+      }
+
       return {
         path,
-        collapsed:
-          previousState === undefined ? opts.folderDefaultState === "collapsed" : previousState,
+        collapsed,
       }
     })
 
