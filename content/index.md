@@ -1,22 +1,25 @@
 ---
-title: Al Brooks Valt
+title: AL BROOKS 价格行为学学院
 layout: page
 ---
 
-# Al Brooks Valt
-> **Mastering Price Action**
+# AL BROOKS 价格行为学学院
+> **由大模型整理后的专业价格行为学知识库**
 
-Welcome to the comprehensive analysis and documentation of Al Brooks' trading methodologies.
+欢迎来到 AL BROOKS 价格行为学学院。本项目致力于通过大模型技术，系统性地整理和呈现 Al Brooks 的价格行为学交易方法论，助力交易者构建坚实的市场分析基础。
 
 <div class="callout" style="background: var(--secondary); color: white; padding: 1rem; border-radius: 8px; margin-bottom: 2rem;">
-  <strong>🚀 Start Learning</strong><br>
-  Access the complete guide to Trading Price Action Reversals and master the art of market analysis.
+  <strong>🚀 开启学习之旅</strong><br>
+  目前已上线《价格行为趋势交易》与《价格行为反转交易》的核心内容整理。更多功能（如案例库、智能问答等）等待开发中。
 </div>
 
-## 📚 Trading Series
+## 📚 核心课程系列
 
-*   **[[Trading Price Action Reversals/index|Trading Price Action Reversals]]**
-    *   *Detailed analysis and documentation on mastering price action reversals.*
+*   **[[Trading Price Action Trends/index|Trading Price Action Trends (价格行为趋势交易)]]**
+    *   *深入分析趋势形成的本质、价格行为基础及常用趋势形态。*
+
+*   **[[Trading Price Action Reversals/index|Trading Price Action Reversals (价格行为反转交易)]]**
+    *   *掌握趋势反转的识别、Major Trend Reversal (MTR) 及反转交易策略。*
 
 ---
-*Built with Quartz.*
+*Built with Quartz & LLM Assistance.*
