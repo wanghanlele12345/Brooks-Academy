@@ -72,7 +72,7 @@ sidebar:
 
 ### 案例 1：十字星不需要完美
 
-![[AL Brooks/Trends/Images/nc02f001.jpg]]
+![[Trading Price Action Trends/Images/nc02f001.jpg]]
 **Figure 2.1: Dojis Are Rarely Perfect**
 *   **Left (1-min Emini):** 标准的十字星，多空平衡。
 *   **Right (Monthly Google):**
@@ -82,7 +82,7 @@ sidebar:
 
 ### 案例 2：有趋势属性的十字星
 
-![[AL Brooks/Trends/Images/nc02f003.jpg]]
+![[Trading Price Action Trends/Images/nc02f003.jpg]]
 **Figure 2.3: Trending Dojis**
 *   **Chart Right (5-min):**
     *   **Bar 1:** 连续 4 根十字星。
@@ -91,7 +91,7 @@ sidebar:
 
 ### 案例 3：趋势 K 线作为陷阱或高潮
 
-![[AL Brooks/Trends/Images/nc02f004.jpg]]
+![[Trading Price Action Trends/Images/nc02f004.jpg]]
 **Figure 2.4: Trend Bars without a Trend**
 *   **Bar 6 (Bull Trap):** 强多头趋势 K 线突破十字星区间。
     *   **Failure:** 下一根 K 线无法延续，收盘回落。多头被套，市场下跌。
@@ -101,7 +101,7 @@ sidebar:
 
 ### 案例 4：无法交易的微观高潮
 
-![[AL Brooks/Trends/Images/nc02f005.jpg]]
+![[Trading Price Action Trends/Images/nc02f005.jpg]]
 **Figure 2.5: A Large Bear Trend Bar Can End a Bear Trend**
 *   **Bar 8 (5-min):** 巨大的阴线，看似空头极强。
 *   **Tick Chart (Left):** 对应 Bar 8 尾部的微观结构显示出双底和随机指标背离。
@@ -112,7 +112,7 @@ sidebar:
 
 ### 案例 5：趋势向区间的转换
 
-![[AL Brooks/Trends/Images/nc02f006.jpg]]
+![[Trading Price Action Trends/Images/nc02f006.jpg]]
 **Figure 2.6: Trend Transitioning into Trading Range**
 *   **Accumulation:** 在下跌趋势中，每次新低都伴随着长下影线或阳线（买压累积）。
 *   **Bar 13:** 顶部出现密集的阴线实体（卖压累积）。

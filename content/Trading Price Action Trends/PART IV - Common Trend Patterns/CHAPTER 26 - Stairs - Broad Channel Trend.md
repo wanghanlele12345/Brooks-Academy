@@ -41,18 +41,18 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc26f001.jpg]]
+![[Trading Price Action Trends/Images/nc26f001.jpg]]
 **Figure 26.1: Bear Stairs**
 *   **Pattern:** 每次创新低（Bar 6, 9, 13）后，市场都反弹回突破点之上。
 *   **Strategy:** 在通道下沿买入（逆势），在通道上沿做空（顺势）。
 *   **Shrinking Stairs (Bar 7):** Bar 7 相比 Bar 5 的跌幅，小于 Bar 5 相比 Bar 3 的跌幅。动能减弱。
 
-![[AL Brooks/Trends/Images/nc26f002.jpg]]
+![[Trading Price Action Trends/Images/nc26f002.jpg]]
 **Figure 26.2: Stairs Accelerating**
 *   **Scenario:** 阶梯形态不仅没有收缩，反而加速突破了通道上沿（Bar 8）。
 *   **Outcome:** 失败的楔形顶导致了测量运动 (Measured Move) 上涨。
 
-![[AL Brooks/Trends/Images/nc26f003.jpg]]
+![[Trading Price Action Trends/Images/nc26f003.jpg]]
 **Figure 26.3: Shrinking Stairs Reversal**
 *   **Setup:** Bull Stairs (Bar 4 -> 6 -> 8)。
 *   **Shrinking:** Bar 8 创新高的幅度极小。

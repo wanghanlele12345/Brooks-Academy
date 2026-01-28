@@ -34,7 +34,7 @@ sidebar:
 
 ## 2. 案例解析：从趋势到死寂再到趋势
 
-![[AL Brooks/Trends/Images/nc01f002.jpg]]
+![[Trading Price Action Trends/Images/nc01f002.jpg]]
 **Figure 1.1: Extreme Trading Range and Trends**
 
 *   **Context (背景):**

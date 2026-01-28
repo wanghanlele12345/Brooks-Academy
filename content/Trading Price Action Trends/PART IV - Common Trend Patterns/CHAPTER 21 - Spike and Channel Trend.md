@@ -64,25 +64,25 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc21f001.jpg]]
+![[Trading Price Action Trends/Images/nc21f001.jpg]]
 **Figure 21.1: Three Pushes in a Spike and Channel**
 *   **Spike (Bar 5-6):** 强力突破，确立多头。
 *   **Channel (Bar 7-10):** 三推楔形通道。
 *   **Climax:** Bar 10 过冲通道线并反转。
 *   **Target:** 跌破通道后，市场回测了通道起点（Bar 7区域），并在 Bar 12 获得支撑。
 
-![[AL Brooks/Trends/Images/nc21f003.jpg]]
+![[Trading Price Action Trends/Images/nc21f003.jpg]]
 **Figure 21.3: Nested Spike and Channels**
 *   **Fractal:** 大通道套小通道。
 *   **Test of Start:** 通道起点（Bar 2, 5, 8）都在后续被精准回测。
 *   **Lesson:** 标记通道起点，那是未来的强支撑/阻力位。
 
-![[AL Brooks/Trends/Images/nc21f005.jpg]]
+![[Trading Price Action Trends/Images/nc21f005.jpg]]
 **Figure 21.5: Gap Spike**
 *   **Concept:** 跳空缺口 (Gap) 本身就是一个巨大的隐形趋势 K 线（Spike）。
 *   **Structure:** Gap (Spike) -> Pullback -> Channel。
 
-![[AL Brooks/Trends/Images/nc21f008.jpg]]
+![[Trading Price Action Trends/Images/nc21f008.jpg]]
 **Figure 21.8: Consecutive Climaxes**
 *   **Analysis:**
     *   Bar 3: 第一次抛售高潮。

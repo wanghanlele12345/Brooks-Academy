@@ -42,7 +42,7 @@ sidebar:
 *   **止损被扫 (Stop Runs):** 在关键反转点，3 分钟图上经常发生扫损行为，而 5 分钟图上的止损则安然无恙。
 *   **决策疲劳：** 试图协调两个周期的信号（例如 5 分钟看涨，3 分钟看跌）会导致迟疑和混乱，最终错过交易。
 
-![[AL Brooks/Trends/Images/nc08f001.jpg]]
+![[Trading Price Action Trends/Images/nc08f001.jpg]]
 **Figure 8.1: Smaller Time Frame Charts Result in More Losses**
 *   **Scenario:** 5 分钟图上 Bar 11 是一个强力的多头反转信号（High 2, Wedge Bottom）。止损设在 Bar 11 低点下方。
 *   **Conflict:** 3 分钟图（左下插图）上，对应的 K 线跌破了止损位。

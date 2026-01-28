@@ -56,39 +56,39 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc13f001.jpg]]
+![[Trading Price Action Trends/Images/nc13f001.jpg]]
 **Figure 13.1: All Trend Lines Are Important**
 *   **Slope Evolution:** 随着趋势发展，趋势线斜率逐渐变缓（Flatter Slope），直至反向趋势线变得更重要。
 *   **Breakout Failure:** 大多数针对趋势线的突破尝试都以失败告终，随后恢复原趋势。
 
-![[AL Brooks/Trends/Images/nc13f002.jpg]]
+![[Trading Price Action Trends/Images/nc13f002.jpg]]
 **Figure 13.2: Monthly Trend Lines**
 *   **Context:** 道琼斯指数月线图。
 *   **Bar 3 (1987 Crash):** 崩盘止步于由 Bar 1 和 Bar 2 连接的长期趋势线 B。
 *   **2009 Low:** 止步于趋势线 A（连接 1987 低点和 1990 低点）。
 *   **Conclusion:** 即使在月线图上，价格行为依然精准遵循趋势线测试。
 
-![[AL Brooks/Trends/Images/nc13f003.jpg]]
+![[Trading Price Action Trends/Images/nc13f003.jpg]]
 **Figure 13.3: Trend Line Created as Parallel**
 *   **Setup:** 利用 Bar 1 到 Bar 4 的下降通道线 (TCL) 制作平行线，锚定在 Bar 2 高点，形成上方趋势线。
 *   **Bar 6 Short:** 
     *   这是对上方趋势线的第二次突破尝试失败。
     *   同时是 **Dueling Lines** 交易：回调的楔形旗形 (Wedge Bear Flag) 触及主趋势线。
 
-![[AL Brooks/Trends/Images/nc13f004.jpg]]
+![[Trading Price Action Trends/Images/nc13f004.jpg]]
 **Figure 13.4: Trend Channel Line Creating a Channel**
 *   **Context:** MBT 日线图。
 *   **Channel Creation:** 利用 Bar 6 到 Bar 8 的高点连线，平移至中间的低点 Bar 7，构建上升通道。
 *   **Bar 9:** 在通道底部出现的强多头反转 K 线，买入信号。
 *   **Bar 13:** 同理，利用 Bar 11 和 Bar 12 低点构建下降通道，平移至高点。Bar 13 在通道顶部形成强空头反转。
 
-![[AL Brooks/Trends/Images/nc13f005.jpg]]
+![[Trading Price Action Trends/Images/nc13f005.jpg]]
 **Figure 13.5: Head and Shoulders Geometry**
 *   **Technique:** 连接颈线 (Bar 3 和 Bar 5)，平移至左肩 (Bar 2)。
 *   **Projection:** 该平行线大致预测了右肩 (Bar 6) 的位置。
 *   **Trade:** 在 Bar 6 抛售高潮后的 Inside Bar 买入。
 
-![[AL Brooks/Trends/Images/nc13f006.jpg]]
+![[Trading Price Action Trends/Images/nc13f006.jpg]]
 **Figure 13.6: Trend Channel Line Creating a Channel**
 *   **Parallel:** 虚线通道底是通过 Bar 1 和 Bar 4 的高点连线平移至 Bar 3 低点得出的。
 *   **Bar 6:** 它是对通道底部的第二次过冲后反转 (Second Reversal from Overshoot)。Bar 5 是第一次。
@@ -96,7 +96,7 @@ sidebar:
     *   Bar 2 是空头尖峰 (Spike)，随后进入通道。
     *   通道通常在三推 (Three Pushes) 后结束，并反弹测试通道起点。
 
-![[AL Brooks/Trends/Images/nc13f007.jpg]]
+![[Trading Price Action Trends/Images/nc13f007.jpg]]
 **Figure 13.7: Repeated Tests of a Trend Line**
 *   **Scenario:** 市场在大约 15 根 K 线内反复测试虚线所示的下降趋势线（阻力线）。
 *   **Outcome:** 多头最终放弃突破尝试，卖压涌出，导致趋势加速下跌 (Acceleration Downward)。

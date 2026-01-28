@@ -39,7 +39,7 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc10f001.jpg]]
+![[Trading Price Action Trends/Images/nc10f001.jpg]]
 **Figure 10.1: Second Entries and Traps**
 
 *   **Price Logic (Bar 10):**
@@ -50,7 +50,7 @@ sidebar:
     *   **Bar 1:** 所有的顶部大多源自某种微观双顶（Micro Double Top）。
     *   **Bar 18:** 所有的底部大多源自某种微观双底（Micro Double Bottom）。
 
-![[AL Brooks/Trends/Images/nc10f002.jpg]]
+![[Trading Price Action Trends/Images/nc10f002.jpg]]
 **Figure 10.2: Wait for Second Reversals**
 
 *   **Momentum Filter (动能过滤):**

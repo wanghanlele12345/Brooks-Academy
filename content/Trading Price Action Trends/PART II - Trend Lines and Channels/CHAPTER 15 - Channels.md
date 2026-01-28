@@ -53,33 +53,33 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc15f001.jpg]]
+![[Trading Price Action Trends/Images/nc15f001.jpg]]
 **Figure 15.1: Nested Channels**
 *   **Micro Channels:** 许多小通道（如 Bar 2-3）也是微观通道。
 *   **Strategy:** 在微观通道中，等待突破失败后再逆势入场（如 Bar 3 之后的反转）。
 
-![[AL Brooks/Trends/Images/nc15f003.jpg]]
+![[Trading Price Action Trends/Images/nc15f003.jpg]]
 **Figure 15.3: Bull Channels in Bear Markets**
 *   **Middle Chart:** 下跌趋势中的多头通道 = **Wedge Bear Flag (楔形熊旗)**。
     *   **Action:** 只做空。在 Bar 18 (ii pattern) 下方做空。
 *   **Right Chart:** 极度超卖后的多头通道。Bar 29 强力突破上行，将熊旗转化为反转 (Final Flag Reversal)。
 
-![[AL Brooks/Trends/Images/nc15f004.jpg]]
+![[Trading Price Action Trends/Images/nc15f004.jpg]]
 **Figure 15.4: Channel Breakout and Measured Move**
 *   **Measured Move:** Bar 6 的低点正好触及通道高度的等距测算目标 (Lines A, B, C)。
 *   **Lesson:** 通道一旦被突破，第一目标位通常是通道高度的 1 倍距离。
 
-![[AL Brooks/Trends/Images/nc15f005.jpg]]
+![[Trading Price Action Trends/Images/nc15f005.jpg]]
 **Figure 15.5: Climactic Bear Breakout of Bear Channel**
 *   **Setup:** Bar 4 强力向下突破空头通道。
 *   **Outcome:** 突破演变为 **Sell Climax (抛售高潮)**。市场随后反弹两段 (Two-legged rally) 至 Bar 7。
 *   **Lesson:** 75% 的通道顺势突破都会失败并反转回通道内。
 
-![[AL Brooks/Trends/Images/nc15f007.jpg]]
+![[Trading Price Action Trends/Images/nc15f007.jpg]]
 **Figure 15.7: Channels Are Always Trying to Reverse**
 *   **Limit Order Logic:** 在 Bar 18 开始的上升通道中，所有看似做空的信号（Low 1, Low 2）实际上都是做多的机会。多头在这些信号 K 线的**低点**挂单买入（Buy Below），赌空头陷阱。
 
-![[AL Brooks/Trends/Images/nc15f008.jpg]]
+![[Trading Price Action Trends/Images/nc15f008.jpg]]
 **Figure 15.8: Entering on Limit Orders**
 *   **Scenario:** 强多头尖峰 (Bar 1-3) 后。
 *   **Limit Entry:**

@@ -41,7 +41,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc24f001.jpg]]
+![[Trading Price Action Trends/Images/nc24f001.jpg]]
 **Figure 24.1: Strong Trend Can Fail**
 *   **Bull Trend (Bar 1-5):** 开盘强劲上涨。
 *   **Reversal Spike (Bar 9):** 跌破上方震荡区间的强阴线尖峰。
@@ -49,14 +49,14 @@ sidebar:
     *   **Action:** Bar 9 是决定性的突破，确立了空头趋势。
 *   **Target:** 市场随后走出了完美的 Measured Move。
 
-![[AL Brooks/Trends/Images/nc24f002.jpg]]
+![[Trading Price Action Trends/Images/nc24f002.jpg]]
 **Figure 24.2: Most Reversals Begin as Trending Trading Range Days**
 *   **Bear Trend:** 开盘下跌，形成 Spike and Channel (Bar 4-8)。
 *   **Wedge Bottom:** 市场在 Bar 8, 15, 17 形成三推楔形底。
 *   **Reversal:** Bar 22 之后的强阳线尖峰确立了反转。
 *   **Result:** 市场收盘在全天高点，完成了从 Bear Trend 到 Bull Trend 的彻底反转。
 
-![[AL Brooks/Trends/Images/nc24f003.jpg]]
+![[Trading Price Action Trends/Images/nc24f003.jpg]]
 **Figure 24.3: Smaller Time Frames**
 *   **Concept:** 在极强的单边趋势中（如 Runaway Bull Trend），5分钟图可能不给回调机会。
 *   **Action:** 此时可以参考 3分钟图。

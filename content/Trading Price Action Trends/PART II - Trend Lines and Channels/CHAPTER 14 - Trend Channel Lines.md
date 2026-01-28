@@ -55,12 +55,12 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc14f001.jpg]]
+![[Trading Price Action Trends/Images/nc14f001.jpg]]
 **Figure 14.1: Testing a Trend Channel Line**
 *   **Construction:** 虚线是基于实线趋势线的平行线。
 *   **Interaction:** 观察价格在接触通道线时的反应。是反转还是加速？
 
-![[AL Brooks/Trends/Images/nc14f003.jpg]]
+![[Trading Price Action Trends/Images/nc14f003.jpg]]
 **Figure 14.3: Lengthy Trend Channel Line & Overshoot**
 *   **Line Construction:** 基于 Bar 2 和 Bar 3 的趋势线制作平行线，锚定在 Bar 1。
 *   **Overshoot (Bar 6):** Bar 6 刺破了基于 Bar 1 和 Bar 5 连线的独立通道线。

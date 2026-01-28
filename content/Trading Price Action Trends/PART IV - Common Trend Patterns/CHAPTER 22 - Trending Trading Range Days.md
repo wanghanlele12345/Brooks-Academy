@@ -46,7 +46,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc22f001.jpg]]
+![[Trading Price Action Trends/Images/nc22f001.jpg]]
 **Figure 22.1: Trending Trading Range Days**
 *   **Day 2 Structure:**
     *   **Initial Range:** 开盘后陷入震荡。
@@ -54,20 +54,20 @@ sidebar:
     *   **Second Range:** 突破后并未形成强劲通道，而是立即进入高位震荡。
 *   **Gap Test:** Day 3 回补了 Day 2 的突破缺口（Bar 9 和 Bar 12 之间的区域）。
 
-![[AL Brooks/Trends/Images/nc22f002.jpg]]
+![[Trading Price Action Trends/Images/nc22f002.jpg]]
 **Figure 22.2: Initial Range is Half of ADR**
 *   **Recognition:** 前两个小时波幅很小（约为均幅一半）。
 *   **Action:** 预期会有突破。
 *   **Breakout:** 市场向下突破，形成 Lower Trading Range。
 *   **Measured Move:** 向下的幅度大约等于上方区间的高度。
 
-![[AL Brooks/Trends/Images/nc22f005.jpg]]
+![[Trading Price Action Trends/Images/nc22f005.jpg]]
 **Figure 22.5: Trading Ranges Separated by Breakouts**
 *   **Step-by-Step:** 市场像阶梯一样运行。Range 1 -> Breakout -> Range 2 -> Breakout -> Range 3。
 *   **Reversal (Bar 10):** 最后的突破（Bar 10）失败（Final Flag Reversal），市场反转跌穿 Range 3 和 Range 2。
 *   **Strategy:** 在阶梯上升过程中顺势做多，在 Bar 10 这种明显的衰竭点反手做空。
 
-![[AL Brooks/Trends/Images/nc22f008.jpg]]
+![[Trading Price Action Trends/Images/nc22f008.jpg]]
 **Figure 22.8: Trending within Range**
 *   **Clue:** 尽管前 2.5 小时在震荡，但摆动低点（Swing Lows）在不断抬高（Bar 2, 5, 6, 8）。
 *   **Implication:** 这暗示了潜在的多头趋势。

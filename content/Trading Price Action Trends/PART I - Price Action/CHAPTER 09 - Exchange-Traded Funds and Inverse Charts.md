@@ -34,13 +34,13 @@ sidebar:
 
 ## 3. 图解案例
 
-![[AL Brooks/Trends/Images/nc09f001.jpg]]
+![[Trading Price Action Trends/Images/nc09f001.jpg]]
 **Figure 9.1: The Emini and the SPY Are Similar**
 *   **Top (Emini):** 标准期货图表。
 *   **Middle (SPY):** 走势几乎一致，但微观细节略有不同。
 *   **Bottom (SDS):** 反向图表。当 Emini 出现下跌趋势时，SDS 呈现上涨趋势。利用 SDS 的支撑形态可以辅助判断 Emini 的阻力有效性。
 
-![[AL Brooks/Trends/Images/nc09f002.jpg]]
+![[Trading Price Action Trends/Images/nc09f002.jpg]]
 **Figure 9.2: SPY Adjustment on Triple Witching Days**
 *   **Left (SPY):** 开盘出现巨大的价格调整跳空。
 *   **Right (Emini):** 开盘跳空较小。

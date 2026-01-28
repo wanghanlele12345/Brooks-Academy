@@ -69,7 +69,7 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc18f001.jpg]]
+![[Trading Price Action Trends/Images/nc18f001.jpg]]
 **Figure 18.1: Strong Trend Day in GS**
 
 *   **Recognition (识别):**

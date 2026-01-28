@@ -42,13 +42,13 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/Trends/Images/nc23f001.jpg]]
+![[Trading Price Action Trends/Images/nc23f001.jpg]]
 **Figure 23.1: Buy the First Pullback**
 *   **Setup:** 开盘强阳线（Spike）。
 *   **Bar 2:** 第一次跌破趋势线的回调（First Pullback）。
 *   **Action:** 尽管 Bar 2 信号K线不强，但在开盘强趋势预期下，必须买入。
 
-![[AL Brooks/Trends/Images/nc23f002.jpg]]
+![[Trading Price Action Trends/Images/nc23f002.jpg]]
 **Figure 23.2: Small Pullback Bull Trend Day**
 *   **Characteristics:**
     *   回调极小（最大 11 ticks）。
@@ -56,12 +56,12 @@ sidebar:
     *   **Reality:** 这是极强趋势。空头找不到好的做空点，只能不断止损；多头找不到深回调，只能不断追高。
 *   **Strategy:** 在任何看起来像顶部的反转信号失败后（Failed Reversal），顺势买入。
 
-![[AL Brooks/Trends/Images/nc23f003.jpg]]
+![[Trading Price Action Trends/Images/nc23f003.jpg]]
 **Figure 23.3: Small Pullback Day**
 *   **Action:** 任何停顿（Pause）、ii pattern、微小回调都是买点。
 *   **Late Pullback:** 注意尾盘确实出现了一次较大的回调，随后趋势恢复。
 
-![[AL Brooks/Trends/Images/nc23f005.jpg]]
+![[Trading Price Action Trends/Images/nc23f005.jpg]]
 **Figure 23.5: Strong First Bar Trap**
 *   **Trap:** Bar 9 是强阳线，诱多。
 *   **Reality:** 随后两根K线直接吞没 Bar 9。
