@@ -65,10 +65,10 @@ export const defaultContentPageLayout: PageLayout = {
           }
 
           // PART files should always come before CHAPTER files
-          const aIsPart = a.displayName.includes("PART")
-          const bIsPart = b.displayName.includes("PART")
-          const aIsChapter = a.displayName.includes("CHAPTER")
-          const bIsChapter = b.displayName.includes("CHAPTER")
+          const aIsPart = a.displayName.toUpperCase().includes("PART")
+          const bIsPart = b.displayName.toUpperCase().includes("PART")
+          const aIsChapter = a.displayName.toUpperCase().includes("CHAPTER")
+          const bIsChapter = b.displayName.toUpperCase().includes("CHAPTER")
 
           if (aIsPart && bIsChapter) return -1
           if (aIsChapter && bIsPart) return 1
@@ -157,10 +157,10 @@ export const defaultListPageLayout: PageLayout = {
           }
 
           // PART files should always come before CHAPTER files
-          const aIsPart = a.displayName.includes("PART")
-          const bIsPart = b.displayName.includes("PART")
-          const aIsChapter = a.displayName.includes("CHAPTER")
-          const bIsChapter = b.displayName.includes("CHAPTER")
+          const aIsPart = a.displayName.toUpperCase().includes("PART")
+          const bIsPart = b.displayName.toUpperCase().includes("PART")
+          const aIsChapter = a.displayName.toUpperCase().includes("CHAPTER")
+          const bIsChapter = b.displayName.toUpperCase().includes("CHAPTER")
 
           if (aIsPart && bIsChapter) return -1
           if (aIsChapter && bIsPart) return 1
