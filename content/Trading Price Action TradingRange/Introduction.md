@@ -47,7 +47,7 @@ order: 2
 ### 案例分析：新闻vs价格行为
 
 #### 图表案例：COST 财报反应
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/ncintrof002.jpg]]
+![[Trading Price Action TradingRange/Images/ncintrof002.jpg]]
 
 **图解拆解 (Figure I.2):**
 *   **背景**：财报超出预期，开盘跳空高开（Gap Up）。
@@ -57,7 +57,7 @@ order: 2
 *   **Bar 6**: 酷市趋势中的回搁达到 70%，通常视为趋势可能结束或转为收的地区，而非单纯的酷旗。
 
 #### 图表案例：Yahoo 并购传闻
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/ncintrof003.jpg]]
+![[Trading Price Action TradingRange/Images/ncintrof003.jpg]]
 
 **图解拆解 (Figure I.3):**
 *   **左图 (Daily) / 右图 (Weekly)**：华为晶社區发送传闻导致价格跳空至 $31。
@@ -71,11 +71,11 @@ order: 2
 **核心原则**：所有时间周期（1分钟图vs月线图）和所有市场（股票vs期货）的图形模式是一致的。
 
 #### 图表案例：历史的一致性
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/ncintrof001.jpg]]
+![[Trading Price Action TradingRange/Images/ncintrof001.jpg]]
 *   **Figure I.1**: 无论是 1930 年代的周线图，还是现代的 5 分钟图，价格形态（趋势、通道、区间）完全一致。这证明 PA 来源于人类行为/算法逸辑，而非单纯的外部事件。
 
 #### 图表案例：崩益的分形
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/ncintrof004.jpg]]
+![[Trading Price Action TradingRange/Images/ncintrof004.jpg]]
 *   **Figure I.4**: 左图是 1987 年崩益（日线），中图是COST（5 分钟），右图是 Emini（1 分钟）。
 *   **结论**：“崩益”在微观时间周期每天都在发生。对交易者而言，这只是一个标准的 **Bear Swing**，无需恐慌，只需交易图形。
 

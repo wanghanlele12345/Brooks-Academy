@@ -7,7 +7,7 @@ order: 4
 
 ### Figure PI.1: Breakout Dynamics & Reversals
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc01uf001.jpg]]
+![[Trading Price Action TradingRange/Images/nc01uf001.jpg]]
 
 **案例拆解：**
 *   **Bar 5 Breakout**: 
@@ -31,7 +31,7 @@ order: 4
 
 ### Figure PI.2: Volume & Context
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc01uf002.jpg]]
+![[Trading Price Action TradingRange/Images/nc01uf002.jpg]]
 
 **案例拆解：**
 *   **背景 (Left Chart 60m)**: 

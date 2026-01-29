@@ -16,7 +16,7 @@ order: 39
 
 ### 2. 案例图解：利用陷阱反向交易
 
-![[Images/nc32f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc32f001.jpg]]
 
 通过识别价格行为中的强弱，可以在散户容易犯错的位置使用限价单（Limit Order）反向操作。
 

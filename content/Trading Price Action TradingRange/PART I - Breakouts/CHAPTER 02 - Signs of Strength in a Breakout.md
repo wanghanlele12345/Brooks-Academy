@@ -7,7 +7,7 @@ order: 5
 # 4. 图表案例分析摘要
 
 ### Figure 2.1: 日内多次突破与失败
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc02f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc02f001.jpg]]
 *   **Bar 16-18 (Strong Breakout)**: 连续大阴线，重叠少，这就是强突破。
     *   **后果**：多头投降（Capitulation），只能市价平仓。
     *   **目标**：Measured Move（Spike 的 Open 到 Close 距离）。
@@ -15,7 +15,7 @@ order: 5
     *   **Gap 意义**：未能回补 Gap 显示空头极强（Urgency），Gap 成为 Measuring Gap。
 
 ### Figure 2.2: 旗形反向突破
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc02f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc02f002.jpg]]
 *   **Bar 9**: Failed Wedge Bear Flag 向上突破。
     *   **逻辑**：Bear Flag 本应向下，失败后的反向突破动能巨大。
 

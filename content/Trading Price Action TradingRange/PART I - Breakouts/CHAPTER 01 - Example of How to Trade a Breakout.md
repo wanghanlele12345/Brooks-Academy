@@ -17,7 +17,7 @@ order: 4
 成功的突破通常伴随着巨大的动能（Momentum）和极少的重叠（Overlap）。
 
 ### 案例分析：强劲的牛市突破
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc01f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc01f001.jpg]]
 
 **图解拆解 (Figure 1.1):**
 *   **Bar 5**: 市场转为 Always-In Long 的起点。
@@ -71,7 +71,7 @@ order: 4
 # 3. 突破缺口与利润回吐 (Breakout Gaps & Profit Taking)
 
 ### 案例分析：缺口回测与高潮反转
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc01f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc01f002.jpg]]
 
 **图解拆解 (Figure 1.2):**
 *   **Bar 5-8 (Sell Climax)**: 连续出现 3 个抛售高潮（无回调下跌）。

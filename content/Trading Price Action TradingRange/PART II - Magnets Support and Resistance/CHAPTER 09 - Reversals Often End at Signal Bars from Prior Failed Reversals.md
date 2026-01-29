@@ -8,7 +8,7 @@ order: 13
 
 **SPY 月线图案例：失败信号如何预测未来支撑/阻力**
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc09f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc09f001.jpg]]
 
 **图解拆解 (Figure 9.1):**
 

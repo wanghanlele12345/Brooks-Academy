@@ -39,7 +39,7 @@ order: 14
 
 # 2. 图表案例分析：大趋势 K 线极值
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc10f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc10f001.jpg]]
 
 **图解拆解 (Figure 10.1):**
 *   **原理**: 巨大的趋势 K 线通常伴随着止损盘堆积在其底部（牛市）或顶部（熊市）。市场常回测这些位置清洗止损。

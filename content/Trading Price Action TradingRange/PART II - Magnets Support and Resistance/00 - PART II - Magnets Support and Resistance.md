@@ -6,13 +6,13 @@ order: 11
 # 4. 图表案例分析
 
 ### Figure PII.1: 长期图表上的磁铁 (Monthly Dow)
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc07uf001.jpg]]
+![[Trading Price Action TradingRange/Images/nc07uf001.jpg]]
 *   **Trend Lines**: 1987年低点连线精确支撑了2009年的崩盘底部（Bar 18）。
 *   **Moving Average**: 均线在牛市中多次充当支撑（Bar 3, 4, 6, 8, 14, 20），在熊市中充当阻力（Bar 11, 17）。
 *   **Trading Ranges**: 之前的震荡区间底部（Bar 9）在跌破后成为反弹的阻力（Bar 11）。
 
 ### Figure PII.2: 支撑阻力互换 (Emini 5min)
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc07uf002.jpg]]
+![[Trading Price Action TradingRange/Images/nc07uf002.jpg]]
 *   **MA Role Reversal**: 
     *   前期：价格在均线之上，回调买入（Bar 7, 8, 13）。
     *   后期：跌破均线后，反弹至均线做空（Bar 17, 18, 19）。

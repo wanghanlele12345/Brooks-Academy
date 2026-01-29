@@ -7,7 +7,7 @@ order: 19
 # 3. 图表案例分析
 
 ### Figure 14.1: 二次信号与震荡市策略
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc14f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc14f001.jpg]]
 
 **图解拆解:**
 *   **Context**: 市场处于横盘震荡或弱趋势中，EMA 走平。
@@ -18,7 +18,7 @@ order: 19
 *   **Bar 9 Breakout**: 突破了 Bar 9 形成的 Failed Wedge Bear Flag，随后开启多头趋势。
 
 ### Figure 14.2: 强趋势中的第一次 Gap Bar
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc14f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc14f002.jpg]]
 
 **图解拆解:**
 *   **Bar 1 (Bear Trend)**:

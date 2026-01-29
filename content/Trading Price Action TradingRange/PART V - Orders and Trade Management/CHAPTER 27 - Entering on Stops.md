@@ -8,7 +8,7 @@ order: 34
 
 ### Figure 27.1：6 ticks 换取 4 ticks
 
-![[Images/nc27f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc27f001.jpg]]
 
 在 Emini 中，要完成一个 4 ticks (1 point) 的剥头皮，市场通常需要走出 6 ticks 的距离。
 
