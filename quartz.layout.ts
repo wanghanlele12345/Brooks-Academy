@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       folderDefaultState: "open",
-      filterFn: (node) => node.displayName !== "Images",
+      filterFn: (node) => node.displayName !== "Images" && node.displayName !== "Meta",
       sortFn: (a, b) => {
         const nameOrder = ["Introduction", "List of Terms Used in This Book"]
         if (a.isFolder && b.isFolder) {
@@ -131,7 +131,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       folderDefaultState: "open",
-      filterFn: (node) => node.displayName !== "Images",
+      filterFn: (node) => node.displayName !== "Images" && node.displayName !== "Meta",
       sortFn: (a, b) => {
         const nameOrder = ["Introduction", "List of Terms Used in This Book"]
         if (a.isFolder && b.isFolder) {
