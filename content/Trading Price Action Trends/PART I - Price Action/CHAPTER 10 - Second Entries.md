@@ -39,7 +39,7 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[Trading Price Action Trends/Images/nc10f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc10f001.jpg]]
 **Figure 10.1: Second Entries and Traps**
 
 *   **Price Logic (Bar 10):**

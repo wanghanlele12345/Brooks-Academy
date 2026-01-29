@@ -44,7 +44,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[Trading Price Action Trends/Images/nc16f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc16f001.jpg]]
 **Figure 16.1: Micro Trend Lines**
 *   **Concept:** 5 分钟图上的微观趋势线突破，对应的是 1 分钟图上清晰的趋势线突破。
 *   **Setup (Bar 5):** 
@@ -52,14 +52,14 @@ sidebar:
     *   **Context:** 位于强空头趋势中。
     *   **Action:** 做空。这是顺势交易的高胜率机会。
 
-![[Trading Price Action Trends/Images/nc16f002.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc16f002.jpg]]
 **Figure 16.2: Failed Breakouts of Micro Trend Lines**
 *   **Bar 2:** 价格跌破了 6 根 K 线的微观上升趋势线。
 *   **Outcome:** 跌破立即反转向上。
 *   **Action:** 在 Bar 3 高点买入 (High 1 Buy)。
 *   **Logic:** 强趋势中的第一次反向突破通常是获利了结，随后会有买盘涌入。
 
-![[Trading Price Action Trends/Images/nc16f003.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc16f003.jpg]]
 **Figure 16.3: Micro Trend Lines in Strong Trends**
 *   **Context:** 极强的空头趋势（Spike & Channel）。
 *   **Strategy:** 只做顺势（做空）。

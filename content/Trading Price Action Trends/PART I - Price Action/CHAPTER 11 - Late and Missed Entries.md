@@ -26,7 +26,7 @@ sidebar:
 
 ## 2. 图解案例深度解析
 
-![[Trading Price Action Trends/Images/nc11f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc11f001.jpg]]
 **Figure 11.1: Consecutive Trend Bars in a Trend**
 
 *   **Scenario:** 假设你在 Bar 4 左右才打开图表，看到市场已经连续拉升。

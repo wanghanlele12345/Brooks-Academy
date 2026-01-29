@@ -44,7 +44,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[Trading Price Action Trends/Images/nc07f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc07f001.jpg]]
 **Figure 7.1: Outside Bars Are Tricky**
 *   **Bar 1 (Outside Up):** 在强空头趋势中出现 Outside Up Bar。
     *   **Action:** 不要买入。这是空头趋势中的多头陷阱。
@@ -52,21 +52,21 @@ sidebar:
 *   **Bar 5 (Outside Down):** 在盘整区间中出现 Outside Down Bar。
     *   **Action:** 忽略。区间中部的外包线没有方向性意义。
 
-![[Trading Price Action Trends/Images/nc07f002.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc07f002.jpg]]
 **Figure 7.2: An ioi Pattern**
 *   **Pattern:** Bar 1 是 Outside Bar，随后是一根 Inside Bar，构成 **ioi**。
 *   **Context:** ioi 出现在区间顶部。
 *   **Trap:** Bar 2 尝试向上突破 ioi 失败。
 *   **Action:** 在 Bar 2 低点下方做空 (Failed ioi Breakout)。
 
-![[Trading Price Action Trends/Images/nc07f003.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc07f003.jpg]]
 **Figure 7.3: Outside Bars Depend on Context**
 *   **Bar 5 (oo Pattern):** 连续两根外包线 (Outside-Outside)。这通常意味着扩大的交易区间。
     *   **Warning:** 不要交易突破，除非看到明确的 Failed Breakout 反向信号。
 *   **Bar 7 (Outside Down):** 在区间顶部形成的 Outside Down Bar。
     *   **Action:** 这是一个强烈的空头反转信号（Buy Low, Sell High）。
 
-![[Trading Price Action Trends/Images/nc07f004.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc07f004.jpg]]
 **Figure 7.4: Outside Bar as an Entry Bar (The Trap)**
 *   **Setup (Bar 6):**
     *   Bar 6 之前是一个 Failed High 2 Long（多头陷阱）。

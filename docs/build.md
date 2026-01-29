@@ -2,7 +2,7 @@
 title: "Building your Quartz"
 ---
 
-Once you've [[index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
+Once you've [[AL Brooks/Trading Price Action Reversals/quartz_site/docs/index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
 
 ```bash
 npx quartz build --serve

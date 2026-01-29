@@ -10,13 +10,16 @@ layout: page
 
 <div class="callout" style="background: var(--secondary); color: white; padding: 1rem; border-radius: 8px; margin-bottom: 2rem;">
   <strong>🚀 开启学习之旅</strong><br>
-  目前已上线《价格行为趋势交易》与《价格行为反转交易》的核心内容整理。更多功能（如案例库、智能问答等）等待开发中。
+  目前已上线《价格行为趋势交易》、《价格行为区间交易》与《价格行为反转交易》的核心内容整理。
 </div>
 
 ## 📚 核心课程系列
 
 *   **[[Trading Price Action Trends/index|Trading Price Action Trends (价格行为趋势交易)]]**
     *   *深入分析趋势形成的本质、价格行为基础及常用趋势形态。*
+
+*   **[[Trading Price Action TradingRange/index|Trading Price Action Trading Ranges (价格行为区间交易)]]**
+    *   *理解突破、磁铁效应、回调及交易区间的策略与管理。*
 
 *   **[[Trading Price Action Reversals/index|Trading Price Action Reversals (价格行为反转交易)]]**
     *   *掌握趋势反转的识别、Major Trend Reversal (MTR) 及反转交易策略。*

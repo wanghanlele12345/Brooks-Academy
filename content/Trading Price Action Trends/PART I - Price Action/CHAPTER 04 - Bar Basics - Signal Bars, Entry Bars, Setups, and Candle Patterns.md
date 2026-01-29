@@ -69,7 +69,7 @@ sidebar:
 
 ## 5. 图解案例
 
-![[Trading Price Action Trends/Images/nc04f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc04f001.jpg]]
 **Figure 4.1: A Typical Buy Signal Bar**
 
 *   **Setup:** 跌破多头趋势线后的两段式回调 (Two-legged sell-off)。

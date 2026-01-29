@@ -41,7 +41,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[Trading Price Action Trends/Images/nc24f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc24f001.jpg]]
 **Figure 24.1: Strong Trend Can Fail**
 *   **Bull Trend (Bar 1-5):** 开盘强劲上涨。
 *   **Reversal Spike (Bar 9):** 跌破上方震荡区间的强阴线尖峰。
@@ -49,7 +49,7 @@ sidebar:
     *   **Action:** Bar 9 是决定性的突破，确立了空头趋势。
 *   **Target:** 市场随后走出了完美的 Measured Move。
 
-![[Trading Price Action Trends/Images/nc24f002.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc24f002.jpg]]
 **Figure 24.2: Most Reversals Begin as Trending Trading Range Days**
 *   **Bear Trend:** 开盘下跌，形成 Spike and Channel (Bar 4-8)。
 *   **Wedge Bottom:** 市场在 Bar 8, 15, 17 形成三推楔形底。

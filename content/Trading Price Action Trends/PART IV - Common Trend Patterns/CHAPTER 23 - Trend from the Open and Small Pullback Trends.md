@@ -42,13 +42,13 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[Trading Price Action Trends/Images/nc23f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc23f001.jpg]]
 **Figure 23.1: Buy the First Pullback**
 *   **Setup:** 开盘强阳线（Spike）。
 *   **Bar 2:** 第一次跌破趋势线的回调（First Pullback）。
 *   **Action:** 尽管 Bar 2 信号K线不强，但在开盘强趋势预期下，必须买入。
 
-![[Trading Price Action Trends/Images/nc23f002.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc23f002.jpg]]
 **Figure 23.2: Small Pullback Bull Trend Day**
 *   **Characteristics:**
     *   回调极小（最大 11 ticks）。

@@ -84,7 +84,7 @@ sidebar:
 
 ## 6. 图解案例深度解析
 
-![[Images/nc06f001.jpg]]
+![[AL Brooks/Trends/Images/nc06f001.jpg]]
 **Figure 6.1: Small Signal Bars**
 *   **With Trend:** 在强下跌趋势中，Bars 7, 9, 12, 14, 17, 21 都是小 K 线（甚至是十字星）。
     *   **Action:** 仅做顺势空单（在低点下方挂 Sell Stop）。

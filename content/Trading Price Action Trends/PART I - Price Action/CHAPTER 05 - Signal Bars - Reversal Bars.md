@@ -55,7 +55,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[Trading Price Action Trends/Images/nc05f001.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc05f001.jpg]]
 **Figure 5.1: Reversal Bar in a Trading Range**
 
 *   **Bar 1 (Bad Long):**
@@ -66,7 +66,7 @@ sidebar:
     *   **Context:** 位于交易区间的顶部，且是针对下降趋势线的反转。
     *   **Action:** 在 Bar 2 低点下方做空，利用被套多头的止损盘推动价格下跌。
 
-![[Trading Price Action Trends/Images/nc05f002.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc05f002.jpg]]
 **Figure 5.2: Reversal Bar with Big Tail and Small Body**
 
 *   **Bar 1 (Strong Long):**
@@ -74,7 +74,7 @@ sidebar:
     *   **Context:** 位于主要摆动低点（Major Swing Low）下方，且是对陡峭下降通道的过冲（Overshoot）后的反转。
     *   **Sell Vacuum:** 价格加速下跌至此通常是真空效应，而非强空头进攻，一旦触及支撑，买盘涌入。
 
-![[Trading Price Action Trends/Images/nc05f003.jpg]]
+![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc05f003.jpg]]
 **Figure 5.3: Reversal Bars Can Be Unconventional**
 
 *   **Bar 29 (Power Reversal):**
