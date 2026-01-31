@@ -24,6 +24,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'wanghanlele12345/Brooks-Academy',
+        // from data-repo-id
+        repoId: 'R_kgDORBOGPA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'YOUR_CATEGORY_ID',
+      }
+    }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
