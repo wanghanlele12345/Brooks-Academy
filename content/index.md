@@ -24,5 +24,8 @@ layout: page
 *   **[[Trading Price Action Reversals/index|Trading Price Action Reversals (价格行为反转交易)]]**
     *   *掌握趋势反转的识别、Major Trend Reversal (MTR) 及反转交易策略。*
 
+*   **[[Reading Price Charts Bar by Bar/index|Reading Price Charts Bar by Bar (逐棒解读价格图表)]]**
+    *   *Al Brooks 的第一本经典著作，通过逐根K线解读（Bar by Bar）深入剖析市场心理与价格行为。*
+
 ---
 *Built with Quartz & LLM Assistance.*
