@@ -35,7 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
         // from data-category
         category: 'Announcements',
         // from data-category-id
-        categoryId: 'YOUR_CATEGORY_ID',
+        categoryId: 'DIC_kwDORBOGPM4C1q0n',
       }
     }),
   ],
