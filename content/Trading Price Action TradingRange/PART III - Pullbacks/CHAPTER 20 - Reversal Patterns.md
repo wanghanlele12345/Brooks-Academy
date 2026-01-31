@@ -49,7 +49,7 @@ order: 26
 
 ### Figure PIV.1：区间嵌套与结构
 
-![[Images/nc21uf001.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf001.jpg]]
 
 *   **结构**：大级别区间（A, B）包含小级别区间（数字标号）。
 *   **Range B**: 包含了三次下推（Triangle），每次下跌都测试了 Range A 的顶部。
@@ -58,7 +58,7 @@ order: 26
 
 ### Figure PIV.2：交易区间日 (Trading Range Day)
 
-![[Images/nc21uf002.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf002.jpg]]
 
 *   **开盘特征**: 早期出现多次反转（Bar 1 下跌，Bar 2 上涨，Bar 3 失败，Bar 4 通道失败），预示当日为震荡日。
 *   **Bar 7 (Vacuum Effect)**: 突破新高的强阳线，紧接着出现 Bear Inside Bar。这是典型的真空效应引发的顶部反转。
@@ -70,7 +70,7 @@ order: 26
 
 ### Figure PIV.3：区间内的波段交易 (Swing Trades)
 
-![[Images/nc21uf003.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf003.jpg]]
 
 *   **Upper Range (顶部区间)**:
     *   **Bar 3**: 昨日高点的 Wedge Reversal，做空点。
@@ -82,14 +82,14 @@ order: 26
 
 ### Figure PIV.4：中间区域陷阱 (Middle Third)
 
-![[Images/nc21uf004.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf004.jpg]]
 
 *   **Barbwire**: 从 Bar 2 之后到 11:45，市场处于极为窄幅的震荡，且位于当日高低的中间三分之一区域。
 *   **操作建议**: K 线重叠严重，充满十字星。在此区域交易极易亏损，应**空仓等待**价格触及边缘。
 
 ### Figure PIV.5：Spike Up and Down = Trading Range
 
-![[Images/nc21uf005.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf005.jpg]]
 
 *   **形态**: 剧烈的上涨 (至 Bar 2) 紧接着剧烈的下跌。这种 V 型 + 倒 V 型反转通常直接导致交易区间。
 *   **Bar 4**: Low 2 Breakout Pullback。
@@ -97,7 +97,7 @@ order: 26
 
 ### Figure PIV.6：回调演变为大区间
 
-![[Images/nc21uf006.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf006.jpg]]
 
 *   **Bar 1**: Buy Climax 后的剧烈回调。
 *   **Bar 9**: 下跌至价值区域，出现 Three-push pattern (Wedge variant)，价值型交易者入场。
@@ -106,7 +106,7 @@ order: 26
 
 ### Figure PIV.7：交易区间作为反转形态
 
-![[Images/nc21uf007.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf007.jpg]]
 
 *   **背景**: 处于大级别牛市中的 4 天交易区间。
 *   **Bar 8, 9, 12**: 三次尝试跌破昨日低点失败。
@@ -115,7 +115,7 @@ order: 26
 
 ### Figure PIV.8：Buy Climax 后的区间 (News)
 
-![[Images/nc21uf008.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf008.jpg]]
 
 *   **Bar 1 (FOMC)**: 巨大的 Outside Bar，随后是 Bar 3 的 Sell Climax。
 *   **Bar 2 (Bull Trap)**: 位于区间顶部的 High 2，紧贴均线，是多头陷阱。
@@ -125,7 +125,7 @@ order: 26
 
 ### Figure PIV.9：月线级别的区间与反转
 
-![[Images/nc21uf009.jpg]]
+![[Trading Price Action TradingRange/Images/nc21uf009.jpg]]
 
 *   **Bar 4, 6, 8/9**: 连续三个 Sell Climax（大阴线）。
 *   **Bar 8-10**: 形成 Triple Bottom 或 Head & Shoulders Bottom。

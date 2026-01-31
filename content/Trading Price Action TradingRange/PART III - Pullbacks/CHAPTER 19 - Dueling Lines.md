@@ -27,7 +27,7 @@ order: 24
 
 ### Figure 19.1：标准决斗线 (楔形牛旗)
 
-![[Images/nc19f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc19f001.jpg]]
 
 *   **结构拆解**：
     *   **大趋势**：牛市。
@@ -42,7 +42,7 @@ order: 24
 
 ### Figure 19.2：熊市中的决斗线
 
-![[Images/nc19f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc19f002.jpg]]
 
 *   **结构拆解**：
     *   **Bar 5**: 测试了 **Bear Trend Line**（长期阻力）。
@@ -53,7 +53,7 @@ order: 24
 
 ### Figure 19.3：水平支撑变体 (Double Bottom)
 
-![[Images/nc19f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc19f003.jpg]]
 
 *   **结构拆解**：
     *   **Bar 4 - 6**: 形成了一个下行通道（Channel）。

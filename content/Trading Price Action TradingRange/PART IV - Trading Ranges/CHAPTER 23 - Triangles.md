@@ -47,7 +47,7 @@ order: 29
 
 ### Figure 23.1：三角形的多种画法
 
-![[Images/nc23f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc23f001.jpg]]
 
 *   **识别灵活性**: 无论如何连接高低点，只要识别出**三推 (Three Pushes)** 结构，就是三角形交易逻辑。
     *   **Low 4, 7, 9**: 三次下探支撑 = Triangle。
@@ -58,7 +58,7 @@ order: 29
 
 ### Figure 23.2：日线图上的三角形变体
 
-![[Images/nc23f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc23f002.jpg]]
 
 *   **Triangle A (Rising Wedge)**: 在上升趋势中，通常看跌。但此处突破向下无力，演变为 Tight Trading Range，最终多头获胜。这显示了多头强势（Bulls buy back shorts）。
 *   **Triangle B & E (Descending Triangles)**: 

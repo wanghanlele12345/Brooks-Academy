@@ -40,7 +40,7 @@ order: 21
 
 ### Figure 17.1：基础计数与过滤
 
-![[Images/nc17f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f001.jpg]]
 
 *   **Bar 8 (High 1)**: 强趋势中的 H1。由于此前有6根无重叠的强阳线，这是一个高胜率买点。
 *   **Bar 10 (Bad H1)**: 位于 **Buy Climax** 之后，且是 Final Flag 的突破，不做多。
@@ -51,7 +51,7 @@ order: 21
 
 ### Figure 17.2：区间 vs 趋势的计数差异
 
-![[Images/nc17f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f002.jpg]]
 
 *   **左图 (Trading Range)**:
     *   **Bar 7 (H1)**: 虽然是强阳线后的 H1，但位于区间顶部且为 Doji，失败概率高。
@@ -62,7 +62,7 @@ order: 21
 
 ### Figure 17.3：计数难点与变体
 
-![[Images/nc17f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f003.jpg]]
 
 *   **Bar 4 (High 3)**: 也就是 Wedge Bottom。Bar 2 和 Bar 3 都没有突破前一根K线高点，但实际上构成了两段下跌。Bar 4 突破后确认反转。
 *   **Bar 7 (Low 3/Channel Top)**: 通道顶部的第三次推升，也是对 EMA 的测试，做空信号。
@@ -72,7 +72,7 @@ order: 21
 
 ### Figure 17.5：失败的 Low 2 演变为 Low 4
 
-![[Images/nc17f005.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f005.jpg]]
 
 *   **Bar 2 (Failed L2)**: L2 入场后并未大幅下跌，市场反而突破其高点。
 *   **预期**: L2 失败通常意味着会有更多反弹，可能形成 L4 或 Wedge Bear Flag。
@@ -80,7 +80,7 @@ order: 21
 
 ### Figure 17.6：失败的 Low 4 (趋势反转信号)
 
-![[Images/nc17f006.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f006.jpg]]
 
 *   **Bar 3 (Low 4 Short)**: 触发入场。
 *   **Bar 5 (Failed L4)**: 市场突破了 L4 信号的高点。
@@ -90,7 +90,7 @@ order: 21
 
 ### Figure 17.7：牛市中不做空 Low 2
 
-![[Images/nc17f007.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f007.jpg]]
 
 *   **Bar 4 & 6**: 都是 L2 形态。
 *   **禁忌**: 在强牛市中，**L2 通常会失败并转化为 H2 买点**。
@@ -98,7 +98,7 @@ order: 21
 
 ### Figure 17.9：通道中的 High/Low 计数
 
-![[Images/nc17f009.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f009.jpg]]
 
 *   **Bar 5**: 失败的 L2，随即转为强劲的牛市通道。
 *   **Bar 6 (Low 4)**: 这是一个 Wedge 顶部的第四次推升（或 L4），但在强多头通道中做空需谨慎。
@@ -106,7 +106,7 @@ order: 21
 
 ### Figure 17.10：复杂的 High 2 变体
 
-![[Images/nc17f010.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f010.jpg]]
 
 *   **Bar 12**: 虽然是 L2，但位于区间底部且是大阳线，做空极度危险。
 *   **Bar 17**: 巨大的 Bear Spike，看似恐慌，实为 **High 2 / Wedge Bull Flag** 的入场点（Bar 5 和 Bar 11 为前两个低点）。
@@ -114,7 +114,7 @@ order: 21
 
 ### Figure 17.12：Low 2 的多种形态
 
-![[Images/nc17f012.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f012.jpg]]
 
 *   **Bar 4**: 典型的 L2。
 *   **Bar 7**: 虽然低点比 L1 低，但仍视为第二腿（L2）。
@@ -123,7 +123,7 @@ order: 21
 
 ### Figure 17.13：Spike and Channel
 
-![[Images/nc17f013.jpg]]
+![[Trading Price Action TradingRange/Images/nc17f013.jpg]]
 
 *   **结构**: Spike (Bar 2) = 第一推 (Leg 1)；Channel (Bar 2-4) = 第二推 (Leg 2)。
 *   **Bar 4**: Wedge Top，也就是第三推，通常是反转信号。

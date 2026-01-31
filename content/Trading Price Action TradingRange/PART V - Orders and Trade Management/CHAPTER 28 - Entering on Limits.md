@@ -56,7 +56,7 @@ order: 35
 
 ### Figure 28.1：Limit Order 实战
 
-![[Images/nc28f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc28f001.jpg]]
 
 *   **Bar 3 Buy Limit**: 强上涨后的 Doji，未能触及 EMA。激进多头在 Bar 3 低点下方挂单买入，赌测试 EMA。
 *   **Bar 6 Sell Limit**: Bar 5 跌破 EMA 后收在低位，空头在 Bar 6 高点挂单做空，赌 Low 2 Short。
@@ -67,7 +67,7 @@ order: 35
 
 ### Figure 28.2：清淡市场的 Limit Order
 
-![[Images/nc28f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc28f002.jpg]]
 
 *   **Bar 8 Buy Limit**: 市场进入 Bull Micro Channel。多头在每一根 K 线的低点挂单买入（赌回调幅度极小）。
 *   **Bar 11/12 Buy Limit**: 强趋势中的 High 1/2，多头在 Bar 11/12 低点挂单买入。
@@ -75,7 +75,7 @@ order: 35
 
 ### Figure 28.3：Scaling In 的应用
 
-![[Images/nc28f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc28f003.jpg]]
 
 *   **Bar 4 Area**: 巨大的 Bear Channel Bottom。多头在 Bar 4 低点下方分批挂单买入 (Scale In)，赌反弹。
 *   **Bar 10**: 突破 Bull Flag 后回踩。多头在 Bar 7 高点附近挂单买入。
@@ -83,7 +83,7 @@ order: 35
 
 ### Figure 28.4：Fade Trend Lines
 
-![[Images/nc28f004.jpg]]
+![[Trading Price Action TradingRange/Images/nc28f004.jpg]]
 
 *   **Bar 6 & 10**: 价格测试 Bear Trend Line。激进交易者挂 Limit Order 做空。
 *   **Better Strategy**: 等待价格触及趋势线后，出现反转 K 线（如 Bar 7 Low 2），再使用 Stop Order 入场。Limit Order 虽然价格好，但容易被强突破打损。

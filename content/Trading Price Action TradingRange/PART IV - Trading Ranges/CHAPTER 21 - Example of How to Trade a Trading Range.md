@@ -37,7 +37,7 @@ order: 27
 
 ### Figure 21.1：Fade Extremes (逆势操作区间边缘)
 
-![[Images/nc21f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc21f001.jpg]]
 
 *   **识别交易区间 (Early Signs)**:
     *   开盘即出现 Doji (Bar 1)，随后 Bar 2-4 频繁反转，Bar 2-7 多空拉锯，缺乏连续性。

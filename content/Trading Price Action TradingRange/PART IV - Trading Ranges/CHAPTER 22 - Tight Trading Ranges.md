@@ -54,7 +54,7 @@ order: 28
 
 ### Figure 22.1：标准 TTR 的处理
 
-![[Images/nc22f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc22f001.jpg]]
 
 *   **识别**: Bar 4 之后，市场进入 TTR。Bar 1-3 频繁反转，Bar 4-6 连续 Doji。
 *   **Triangle**: 随后的 Bar 5-6 演变为收敛三角形。
@@ -65,7 +65,7 @@ order: 28
 
 ### Figure 22.2：双向解读的 TTR
 
-![[Images/nc22f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc22f002.jpg]]
 
 *   **Bar 6-8**: 这个 TTR 既可以是 Bar 3-4 上涨的 **Bull Flag**，也可以是 Bar 1-3 下跌的 **Bear Flag**。
 *   **突破确认**: Bar 8 之后的强阳线确认了方向（向上）。
@@ -73,7 +73,7 @@ order: 28
 
 ### Figure 22.3：TTR 演变为更大的区间
 
-![[Images/nc22f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc22f003.jpg]]
 
 *   **失败的突破**: Bar 6 是 TTR 的向下突破，但随即失败并反转向上（Failed Breakout）。
 *   **Bar 7**: Failed Breakout 后的 Two-bar Reversal，也是 Expanding Triangle 的入场点。
@@ -82,7 +82,7 @@ order: 28
 
 ### Figure 22.4 & 22.5：Barbwire 的致命性
 
-![[Images/nc22f004.jpg]] ![[Images/nc22f005.jpg]]
+![[Trading Price Action TradingRange/Images/nc22f004.jpg]] ![[Trading Price Action TradingRange/Images/nc22f005.jpg]]
 
 *   **连续亏损**: 在 Bar 1-2 的 Barbwire 中，如果机械地进行反转交易（Stop Reversal），可能会遭受 **10 次连续亏损**。
 *   **Martingale 陷阱**: 试图通过加倍下注（Martingale）挽回损失在 TTR 中是自杀行为，因为连续亏损次数可能远超预期。
@@ -90,7 +90,7 @@ order: 28
 
 ### Figure 22.7：Barbwire 内部的 ioi
 
-![[Images/nc22f007.jpg]]
+![[Trading Price Action TradingRange/Images/nc22f007.jpg]]
 
 *   **Bar 1 (ioi)**: 虽然是 ioi 形态，但在 Barbwire 中，大影线意味着多空分歧巨大。
 *   **Bar 2**: 向上突破 Bar 1，但这通常是 Bull Trap。专家会在 Bar 2 高点附近做空。
@@ -98,7 +98,7 @@ order: 28
 
 ### Figure 22.11：Barbwire Reversal
 
-![[Images/nc22f011.jpg]]
+![[Trading Price Action TradingRange/Images/nc22f011.jpg]]
 
 *   **Context**: 连续三个 Sell Climax 之后。
 *   **Bar 10-12**: 形成 Barbwire。
@@ -106,7 +106,7 @@ order: 28
 
 ### Figure 22.12：Barbwire 转化为 Low 2
 
-![[Images/nc22f012.jpg]]
+![[Trading Price Action TradingRange/Images/nc22f012.jpg]]
 
 *   **转化**: Bar 1-2 是 Barbwire，但 Bar 3-5 逐渐显示出空头动能（实体变大，影线变短）。
 *   **Low 2**: 这使得该形态从 Barbwire 转化为一个可交易的 Low 2 Bear Flag。

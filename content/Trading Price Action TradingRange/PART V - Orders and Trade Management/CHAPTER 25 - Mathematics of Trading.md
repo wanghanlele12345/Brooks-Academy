@@ -68,7 +68,7 @@ order: 32
 
 ### Figure 25.1：Spike 高度决定目标位
 
-![[Images/nc25f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc25f001.jpg]]
 
 *   **左图**: Spike 仅为 1 根 Bear Bar。Measured Move 目标仅在该 K 线收盘价下方 5 ticks 处。
 *   **右图**: Spike 扩大为 4 根 Bear Bars。
@@ -78,7 +78,7 @@ order: 32
 
 ### Figure 25.2：捕捉短暂的高胜率时刻
 
-![[Images/nc25f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc25f002.jpg]]
 
 *   **Bar 15 (Bear Spike)**: 连续三根强阴线。此时做空的胜率可能高达 70%。
 *   **Bar 9 - 11 (Upper Range)**: 这是一个约 4 点宽的交易区间。
@@ -89,7 +89,7 @@ order: 32
 
 ### Figure 25.3：Scalper 的困境 vs Swing Trader 的优势
 
-![[Images/nc25f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc25f003.jpg]]
 
 *   **背景**: 巨大的熊市趋势。
 *   **Scalper 视角**: Bar 18-25 之间缺乏高胜率 (60%+) 的做空形态（Setup 不完美，K 线重叠，多头抵抗）。Scalper 可能因等待完美信号而错过整个趋势。

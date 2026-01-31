@@ -51,7 +51,7 @@ order: 36
 
 ### Figure 29.1：止损的微调
 
-![[Images/nc29f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc29f001.jpg]]
 
 *   **Bar 1 (Short)**: 初始止损在 Signal Bar 高点上方。Entry Bar 强劲，止损可下移至 Entry Bar 高点上方。
 *   **Bar 3 (Long)**: 逆势接飞刀。入场后市场下跌，但未触及 Signal Bar 低点止损。随后形成 Double Bottom (Entry Bar Low test)，最终获利。
@@ -61,7 +61,7 @@ order: 36
 
 ### Figure 29.2：强趋势中的移动止损
 
-![[Images/nc29f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc29f002.jpg]]
 
 *   **Bar 2/4 Buy**: 初始止损在 Signal Bar 下方。
 *   **Trailing**:
@@ -72,7 +72,7 @@ order: 36
 
 ### Figure 29.3：风险与回报的对称性
 
-![[Images/nc29f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc29f003.jpg]]
 
 *   **Bar 5 Long**: 市场回调测试了 Bar 7 低点。如果止损在 Bar 5 低点，最大浮亏（Risk）确定。
 *   **Symmetry**: 市场随后的上涨幅度（Reward）往往精确等于之前的最大回撤幅度（Risk）。
@@ -80,7 +80,7 @@ order: 36
 
 ### Figure 29.5：不要过早收紧止损
 
-![[Images/nc29f005.jpg]]
+![[Trading Price Action TradingRange/Images/nc29f005.jpg]]
 
 *   **Bar 2 Short**: 入场后出现 Doji (Bar 3)。
     *   **错误操作**: 将止损移至 Doji 高点上方。这会导致在 Bar 4 被洗出。

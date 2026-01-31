@@ -51,7 +51,7 @@ order: 33
 
 ### Figure 26.1：标准双重理由入场
 
-![[Images/nc26f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc26f001.jpg]]
 
 *   **Bar 2 Buy**:
     1.  **High 2**: 两段式回调 (Double Bottom)。
@@ -69,7 +69,7 @@ order: 33
 
 ### Figure 26.2：Expanding Triangle
 
-![[Images/nc26f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc26f002.jpg]]
 
 *   **Bar 5**: 跌破 Bar 3，完成了 Expanding Triangle 的第五个点（Lower Low）。
 *   **Bar 6 Buy**:
@@ -78,7 +78,7 @@ order: 33
 
 ### Figure 26.3：紧密通道需等待 Second Entry
 
-![[Images/nc26f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc26f003.jpg]]
 
 *   **Bar 1 Short**:
     1.  **Test High**: 测试昨日高点。
@@ -90,7 +90,7 @@ order: 33
 
 ### Figure 26.5：通道过紧时的处理
 
-![[Images/nc26f005.jpg]]
+![[Trading Price Action TradingRange/Images/nc26f005.jpg]]
 
 *   **Bar 7 Wedge**: 形成了 Wedge (1-5-7)，通常是反转信号。
 *   **问题**: 上涨通道非常紧凑 (Steep Channel)，直接做空风险大。

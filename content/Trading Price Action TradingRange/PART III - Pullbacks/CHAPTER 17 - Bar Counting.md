@@ -36,7 +36,7 @@ order: 22
 
 ### Figure 18.1：Wedge Bear Flag 与 Expanding Triangle
 
-![[Images/nc18f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f001.jpg]]
 
 *   **Bar 4, 6, 8**: 熊市低点（Bar 3）后的三段式反弹，构成了 **Wedge Bear Flag**。
     *   **弱势特征**：重叠K线多、影线长、多根阴线夹杂，表明反弹动能弱，适合做空。
@@ -44,7 +44,7 @@ order: 22
 
 ### Figure 18.2：大型 Wedge Bear Flag
 
-![[Images/nc18f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f002.jpg]]
 
 *   **Bar 9, 15, 22**: 跨越三天的巨大三推结构。
     *   **大级别视角**：这是一个大型的 Wedge Bear Flag，预示着对前低点的测试。
@@ -53,7 +53,7 @@ order: 22
 
 ### Figure 18.3：Gap Up 作为第一腿
 
-![[Images/nc18f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f003.jpg]]
 
 *   **结构**：
     *   **Leg 1**: 巨大的跳空高开 (Gap Up) 被视为 Bull Spike。
@@ -64,7 +64,7 @@ order: 22
 
 ### Figure 18.5：Wedge Bear Flag 的突破回调
 
-![[Images/nc18f005.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f005.jpg]]
 
 *   **Bar 1-5**: 形成 Wedge Bear Flag（Bar 1 是 Spike，Bar 2,4,5 是 Channel 三推）。
 *   **Bar 6 (Higher High Breakout Pullback)**: 价格向下突破了 Bull Channel (Bar 1-5)，然后反弹至 Bar 6 形成 Higher High，这是绝佳的 **Breakout Pullback Short**。
@@ -72,7 +72,7 @@ order: 22
 
 ### Figure 18.6：Spike and Channel 作为 Bull Flag
 
-![[Images/nc18f006.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f006.jpg]]
 
 *   **结构**：
     *   **Bar 1**: 向下的 Spike (第一推)。
@@ -83,7 +83,7 @@ order: 22
 
 ### Figure 18.7：Three-Push Variations
 
-![[Images/nc18f007.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f007.jpg]]
 
 *   **Bar 1**: Low 2 Short。
 *   **Bar 1-3-5**: 整体看作大级别的三推反弹 (Wedge Bear Flag)。
@@ -92,7 +92,7 @@ order: 22
 
 ### Figure 18.8：Wedge Reversal vs Pullback
 
-![[Images/nc18f008.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f008.jpg]]
 
 *   **Bar 2, 4, 10**: 这里是一个大型的 Wedge Reversal 结构，但放在大趋势背景下，它其实是一个深幅的 **Wedge Pullback**。
 *   **Bar 5, 7, 9**: 向上倾斜的三推通道（Wedge Bear Flag），是对 Bar 3-4 下跌的修正。
@@ -100,7 +100,7 @@ order: 22
 
 ### Figure 18.9：失败的 Wedge
 
-![[Images/nc18f009.jpg]]
+![[Trading Price Action TradingRange/Images/nc18f009.jpg]]
 
 *   **Bar 5, 7, 9**: 尝试形成 Wedge Bull Flag。
 *   **失败信号 (Failure)**: 在 Bar 9 附近没有出现强势反转信号，反而进入紧密震荡。

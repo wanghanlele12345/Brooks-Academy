@@ -67,7 +67,7 @@ order: 31
 
 ### Figure 24.1：从 Scalp 到 Swing
 
-![[Images/nc24f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc24f001.jpg]]
 
 *   **Bar 7**: 这是一个 **Bull Reversal Bar**，反转了 Gap Up 后的急跌。
 *   **Scalp**: 激进的 Scalper 可能在 Bar 4-7 的下跌中不做空，因为胜率不足 70%。
@@ -76,7 +76,7 @@ order: 31
 
 ### Figure 24.2：日内波段机会 (Swings Up and Down)
 
-![[Images/nc24f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc24f002.jpg]]
 
 *   **Bar 5**: Strong Bull Trend Bar，反转了 Opening Sell-off。这是潜在的 Low of the Day，适合 Swing Buy。
 *   **Bar 8 -> 10**: Bull Swing。

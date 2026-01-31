@@ -35,7 +35,7 @@ order: 38
 
 #### 案例 1：强趋势中的连续加仓
 
-![[Images/nc31f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc31f001.jpg]]
 
 *   **Bar 4**: 强劲的 4-Bar 多头尖峰，确立 Always-In Long。
 *   **Bar 7**: High 2 买入信号（Bar 5 是 H1）。
@@ -45,7 +45,7 @@ order: 38
 
 #### 案例 2：通道中的顺势加仓 (AAPL)
 
-![[Images/nc31f004.jpg]]
+![[Trading Price Action TradingRange/Images/nc31f004.jpg]]
 
 *   **Bar 6-10**: 强趋势通道。由于确信市场将创新高，多头在市价或微小回调中持续买入。
 *   **Bar 13**: 均线处的 Gap Bar（首个 K 线高点低于 EMA）。
@@ -61,7 +61,7 @@ order: 38
 
 #### 案例 3：回调买入与均价管理
 
-![[Images/nc31f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc31f002.jpg]]
 
 *   **Bar 18**: 楔形牛旗回调至 EMA。
 *   **策略 A (单次入场)**：
@@ -75,7 +75,7 @@ order: 38
 
 #### 案例 4：均线处的逆势加仓陷阱与解套
 
-![[Images/nc31f005.jpg]]
+![[Trading Price Action TradingRange/Images/nc31f005.jpg]]
 
 *   **Bar 9**: 首次触及 EMA，多头限价买入。
 *   **Bar 15**: 市场急跌后反弹测试 Bar 9 入场价。
@@ -91,7 +91,7 @@ order: 38
 
 #### 案例 5：震荡区间底部的防御
 
-![[Images/nc31f003.jpg]]
+![[Trading Price Action TradingRange/Images/nc31f003.jpg]]
 
 *   **背景**: 趋势型震荡日（Trending Trading Range Day）。
 *   **Bar 6**: Low 2 做多信号（微型通道突破后的回调）。
@@ -100,7 +100,7 @@ order: 38
 
 #### 案例 6：利用散户止损位加仓
 
-![[Images/nc31f008.jpg]]
+![[Trading Price Action TradingRange/Images/nc31f008.jpg]]
 
 *   **Bar 3 Short**: 若散户使用 3点止损，恰好在 Bar 9 高点被扫损。
 *   **Smart Money**: 预判散户止损位（如整数关口或固定点数）。
@@ -112,7 +112,7 @@ order: 38
 
 ### 5. 尖峰阶段的加仓 (Spikes)
 
-![[Images/nc31f006.jpg]]
+![[Trading Price Action TradingRange/Images/nc31f006.jpg]]
 
 *   **Bar 3-6 (Bear Spike)**: 
     *   空头确立，预期至少有 Measured Move。

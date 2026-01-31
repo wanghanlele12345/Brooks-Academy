@@ -54,7 +54,7 @@ order: 37
 
 #### 案例 1：回调结束于支撑共振点
 
-![[Images/nc30f001.jpg]]
+![[Trading Price Action TradingRange/Images/nc30f001.jpg]]
 
 *   **Bar 6-7**: 强劲的 4-Bar 多头尖峰（Spike）。
 *   **Bar 11 后**: 急剧回调至均线（EMA）。
@@ -69,7 +69,7 @@ order: 37
 
 #### 案例 2：多头趋势中的买入回调与分批止盈
 
-![[Images/nc30f002.jpg]]
+![[Trading Price Action TradingRange/Images/nc30f002.jpg]]
 
 **Euro FX (6E) 交易逻辑：**
 
