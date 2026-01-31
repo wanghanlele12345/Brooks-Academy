@@ -64,7 +64,7 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc21f001.jpg]]
+![[Trading Price Action Trends/Images/nc21f001.jpg]]
 **Figure 21.1: Three Pushes in a Spike and Channel**
 *   **Spike (Bar 5-6):** 强力突破，确立多头。
 *   **Channel (Bar 7-10):** 三推楔形通道。

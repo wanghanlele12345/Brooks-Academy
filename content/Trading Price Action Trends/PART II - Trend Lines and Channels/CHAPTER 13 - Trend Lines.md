@@ -56,12 +56,12 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc13f001.jpg]]
+![[Trading Price Action Trends/Images/nc13f001.jpg]]
 **Figure 13.1: All Trend Lines Are Important**
 *   **Slope Evolution:** 随着趋势发展，趋势线斜率逐渐变缓（Flatter Slope），直至反向趋势线变得更重要。
 *   **Breakout Failure:** 大多数针对趋势线的突破尝试都以失败告终，随后恢复原趋势。
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc13f002.jpg]]
+![[Trading Price Action Trends/Images/nc13f002.jpg]]
 **Figure 13.2: Monthly Trend Lines**
 *   **Context:** 道琼斯指数月线图。
 *   **Bar 3 (1987 Crash):** 崩盘止步于由 Bar 1 和 Bar 2 连接的长期趋势线 B。

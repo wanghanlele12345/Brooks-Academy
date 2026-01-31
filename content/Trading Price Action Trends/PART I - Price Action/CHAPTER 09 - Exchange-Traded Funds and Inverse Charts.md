@@ -34,7 +34,7 @@ sidebar:
 
 ## 3. 图解案例
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc09f001.jpg]]
+![[Trading Price Action Trends/Images/nc09f001.jpg]]
 **Figure 9.1: The Emini and the SPY Are Similar**
 *   **Top (Emini):** 标准期货图表。
 *   **Middle (SPY):** 走势几乎一致，但微观细节略有不同。

@@ -48,7 +48,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc20f001.jpg]]
+![[Trading Price Action Trends/Images/nc20f001.jpg]]
 **Figure 20.1: Every Leg Is Made of Smaller Legs**
 
 *   **Fractal Nature (分形本质):**

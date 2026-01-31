@@ -40,7 +40,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc17f001.jpg]]
+![[Trading Price Action Trends/Images/nc17f001.jpg]]
 **Figure 17.1: Breakouts Can Set Up Reversals (Trading Range Day)**
 *   **Bar 5:** 突破 Bar 2 高点后的失败（Higher High Reversal）。
     *   **Context:** 震荡日特性。
@@ -49,7 +49,7 @@ sidebar:
     *   **Action:** 逆势做多。
 *   **Structure:** 市场在 Bar 9-11 形成扩散三角形（Expanding Triangle），意味着波动率增加但无明确方向，高抛低吸是最佳策略。
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc17f002.jpg]]
+![[Trading Price Action Trends/Images/nc17f002.jpg]]
 **Figure 17.2: Don't Fade Strong Trends**
 *   **Context:** 两个强趋势日（Strong Trend Days）。
 *   **Bar 4 & 8:** 即使出现了反转 K 线，也不应该做逆势交易（Fade）。

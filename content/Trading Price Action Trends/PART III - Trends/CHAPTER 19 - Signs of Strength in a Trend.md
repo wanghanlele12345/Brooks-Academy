@@ -51,7 +51,7 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc19f001.jpg]]
+![[Trading Price Action Trends/Images/nc19f001.jpg]]
 **Figure 19.1: Big Gap Up on Bull Day**
 *   **Signs:**
     *   巨大的跳空高开 (11 points)。
@@ -62,13 +62,13 @@ sidebar:
     *   **Strategy:** 在空头被套的地方（Bar 6 高点上方）买入。
 *   **Bar 8 (20 Gap Bar Buy):** 第一次触及均线是绝佳的买入点。
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc19f002.jpg]]
+![[Trading Price Action Trends/Images/nc19f002.jpg]]
 **Figure 19.2: Most Reversals Fail on Trend Days**
 *   **Observation:** 在这个强空头趋势中，Bar 1-8 看起来都是不错的反转阳线（Bull Reversal Bars）。
 *   **Reality:** 每一个反转信号都失败了。
 *   **Lesson:** 强趋势中的反转 K 线是陷阱。把每一个“买入信号”视为“空头加仓点”。在这些阳线的低点下方挂空单。
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc19f003.jpg]]
+![[Trading Price Action Trends/Images/nc19f003.jpg]]
 **Figure 19.3: No Pullbacks Means Strong Trend**
 *   **Limit Order Check:**
     *   Bar 1 收盘在最高点。

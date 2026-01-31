@@ -94,7 +94,7 @@ sidebar:
 > *   **High 2 (H2):** 如果 H1 触发后价格未创新高反而下跌，下一次出现“高点高于前一根高点”的情况。
 > *   **Low 1 / Low 2:** 空头趋势中的对应逻辑。
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc01f001.jpg]]
+![[Trading Price Action Trends/Images/nc01f001.jpg]]
 **Figure PI.1 详细拆解：**
 
 1.  **两段式回调 (Two-Legged Pullback / ABC):**

@@ -55,7 +55,7 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc14f001.jpg]]
+![[Trading Price Action Trends/Images/nc14f001.jpg]]
 **Figure 14.1: Testing a Trend Channel Line**
 *   **Construction:** 虚线是基于实线趋势线的平行线。
 *   **Interaction:** 观察价格在接触通道线时的反应。是反转还是加速？

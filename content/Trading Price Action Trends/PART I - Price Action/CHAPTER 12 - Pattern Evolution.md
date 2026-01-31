@@ -35,13 +35,13 @@ sidebar:
 
 ## 3. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc12f001.jpg]]
+![[Trading Price Action Trends/Images/nc12f001.jpg]]
 **Figure 12.1: Setups Can Evolve into More Complex Patterns**
 *   **Bar 2 (Low 2 Failed):** Low 2 做空失败。
 *   **Evolution:** 之后的反弹构成了更大的 Wedge Top (Bar 3 之后)，提供了新的做空机会。
 *   **Lesson:** 可靠的形态也有 40% 的失败率。失败后不要执着于旧看法，要识别新形态（如从简单的 Low 2 演变为 Wedge）。
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc12f002.jpg]]
+![[Trading Price Action Trends/Images/nc12f002.jpg]]
 **Figure 12.2: Breakout Mode in the First Hour**
 *   **Context:** 开盘大幅低开，但反弹强劲。
 *   **Bar 4 (Double Top Bear Flag):** 均线处的双顶熊旗，做空尝试。

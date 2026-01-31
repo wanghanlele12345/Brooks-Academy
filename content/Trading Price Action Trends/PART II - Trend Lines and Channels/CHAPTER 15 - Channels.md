@@ -53,12 +53,12 @@ sidebar:
 
 ## 4. 图解案例深度解析
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc15f001.jpg]]
+![[Trading Price Action Trends/Images/nc15f001.jpg]]
 **Figure 15.1: Nested Channels**
 *   **Micro Channels:** 许多小通道（如 Bar 2-3）也是微观通道。
 *   **Strategy:** 在微观通道中，等待突破失败后再逆势入场（如 Bar 3 之后的反转）。
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc15f003.jpg]]
+![[Trading Price Action Trends/Images/nc15f003.jpg]]
 **Figure 15.3: Bull Channels in Bear Markets**
 *   **Middle Chart:** 下跌趋势中的多头通道 = **Wedge Bear Flag (楔形熊旗)**。
     *   **Action:** 只做空。在 Bar 18 (ii pattern) 下方做空。

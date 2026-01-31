@@ -54,7 +54,7 @@ sidebar:
 
 ## 3. 图解案例深度拆解
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc03f001.jpg]]
+![[Trading Price Action Trends/Images/nc03f001.jpg]]
 **Figure 3.1: Breakouts, Trading Ranges, and Tests**
 
 *   **Context (背景):**

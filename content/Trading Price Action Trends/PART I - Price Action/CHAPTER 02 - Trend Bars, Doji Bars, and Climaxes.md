@@ -72,7 +72,7 @@ sidebar:
 
 ### 案例 1：十字星不需要完美
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc02f001.jpg]]
+![[Trading Price Action Trends/Images/nc02f001.jpg]]
 **Figure 2.1: Dojis Are Rarely Perfect**
 *   **Left (1-min Emini):** 标准的十字星，多空平衡。
 *   **Right (Monthly Google):**
@@ -82,7 +82,7 @@ sidebar:
 
 ### 案例 2：有趋势属性的十字星
 
-![[AL Brooks/TradingRange/Trading Price Action TradingRange/Images/nc02f003.jpg]]
+![[Trading Price Action Trends/Images/nc02f003.jpg]]
 **Figure 2.3: Trending Dojis**
 *   **Chart Right (5-min):**
     *   **Bar 1:** 连续 4 根十字星。
