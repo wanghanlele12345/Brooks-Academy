@@ -3,7 +3,6 @@ title: "CHAPTER 32 - Getting Trapped In or Out of a Trade"
 tags: [PriceAction, Reversal, Trading, Traps, LimitOrders]
 order: 39
 ---
-
 > [!abstract] 核心逻辑
 > *   **陷阱定义**：入场止损单（Entry Stop）可能将你带入糟糕的交易，保护性止损单（Protective Stop）可能将你扫出优秀的交易。
 > *   **市场机制**：这并非机构的蓄意操纵，而是不同机构基于对冲、分批建仓及复杂模型产生的综合结果。高频交易（HFT）会利用这些微小波动。
@@ -16,7 +15,7 @@ order: 39
 
 ### 2. 案例图解：利用陷阱反向交易
 
-![[Trading Price Action TradingRange/Images/nc32f001.jpg]]
+![[Images/nc32f001.jpg]]
 
 通过识别价格行为中的强弱，可以在散户容易犯错的位置使用限价单（Limit Order）反向操作。
 

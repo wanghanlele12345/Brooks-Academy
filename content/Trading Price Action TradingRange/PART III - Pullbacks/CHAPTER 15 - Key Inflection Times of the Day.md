@@ -3,6 +3,35 @@ title: "CHAPTER 15 - Key Inflection Times of the Day That Set Up Breakouts and R
 tags: [PriceAction, TimeBased, Reversal, Breakout, Traps]
 order: 20
 ---
+> [!abstract] 核心逻辑
+> 市场不仅有价格模式，也有时间模式。
+> *   **Key Times**: 市场经常在特定时间（太平洋标准时间 PST）发生关键的突破或反转，如 7:00 a.m.（经济数据）、11:00-11:30 a.m.（午盘反转/陷阱）。
+> *   **Institutional Logic**: 机构利用这些时间点的波动制造陷阱（Stop Runs），以便在更好的价格加仓或平仓，导致市场迅速反向运动。
+
+---
+
+# 1. 关键时间点 (Key Inflection Times PST)
+
+*   **7:00 a.m. & 7:30 a.m.** (经济数据发布): 通常引发早盘的 Breakout 或 Reversal。如果早盘是强趋势，这里常常是第一个 Pullback。
+*   **11:00 a.m. - 11:30 a.m.** (午盘陷阱/反转):
+    *   **Trend Days**: 常出现深幅反向波动（Panic Move），清洗止损（Stop Run），随后恢复原趋势进入收盘。
+    *   **Trading Range Days**: 常出现假突破（Breakout Failure），随后回归区间中部。
+*   **12:00 p.m.**: 最后的午盘调整或反转尝试。
+
+---
+
+# 2. 午盘陷阱与机构操作 (Late Morning Traps)
+
+### 强趋势日中的陷阱 (11:30 Stop Run)
+*   **现象**: 在强趋势中，约 11:30 a.m. 突然出现剧烈的反向 Spike（看似反转）。
+*   **机构意图**: 机构利用消息或情绪制造恐慌，触发散户止损，从而在更有利的价格加仓（如牛市中低吸）。
+*   **交易策略**: 识别这是 Exhaustive Counter-trend Spike。等待反向 K 线（Reversal Bar），顺原趋势方向入场（Fade the move）。这往往伴随 **20 Gap Bar Setup**。
+
+### 震荡日中的陷阱
+*   **现象**: 市场整日在区间一侧徘徊，看似要突破，但在 11:30 a.m. 突然反向突破另一侧，随后失败。
+*   **后果**: 两边的突破交易者都被套（Trapped Traders），市场回归区间中部收盘。
+
+---
 
 # 3. 图表案例分析
 

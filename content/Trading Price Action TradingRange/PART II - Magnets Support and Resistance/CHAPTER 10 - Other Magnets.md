@@ -3,7 +3,6 @@ title: "CHAPTER 10 - Other Magnets"
 tags: [PriceAction, Magnets, Support, Resistance, Targets]
 order: 14
 ---
-
 > [!abstract] 核心逻辑
 > **磁铁 (Magnets)** 是市场测试的目标位。
 > *   **顺势原则**：在磁铁被测试或超涨（Overshoot）之前，应顺势交易。

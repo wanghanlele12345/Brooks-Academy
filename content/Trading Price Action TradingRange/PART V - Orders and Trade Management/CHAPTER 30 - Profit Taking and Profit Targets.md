@@ -3,7 +3,6 @@ title: "CHAPTER 30 - Profit Taking and Profit Targets"
 tags: [PriceAction, Reversal, Trading, ProfitTaking, TradersEquation]
 order: 37
 ---
-
 > [!abstract] 核心逻辑
 > *   **市场循环机制**：所有的回调（Pullbacks）和反转（Reversals）本质上始于获利了结（Profit Taking）。
 > *   **趋势演变**：强趋势初期，多头买入突破；趋势成熟后，多头在波段高点获利了结（而非买入），导致回调。
@@ -55,7 +54,7 @@ order: 37
 
 #### 案例 1：回调结束于支撑共振点
 
-![[Trading Price Action TradingRange/Images/nc30f001.jpg]]
+![[Images/nc30f001.jpg]]
 
 *   **Bar 6-7**: 强劲的 4-Bar 多头尖峰（Spike）。
 *   **Bar 11 后**: 急剧回调至均线（EMA）。
@@ -70,7 +69,7 @@ order: 37
 
 #### 案例 2：多头趋势中的买入回调与分批止盈
 
-![[Trading Price Action TradingRange/Images/nc30f002.jpg]]
+![[Images/nc30f002.jpg]]
 
 **Euro FX (6E) 交易逻辑：**
 
