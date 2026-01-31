@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6: Breakouts"
+title: "CHAPTER 06 - Breakouts"
 tags: [PriceAction, Breakouts, Trading, Trend]
 sidebar_order: 6
 ---

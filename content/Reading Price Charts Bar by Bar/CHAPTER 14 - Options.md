@@ -1,5 +1,5 @@
 ---
-title: "Chapter 14: Options"
+title: "CHAPTER 14 - Options"
 tags: [PriceAction, Options, RiskManagement, DailyChart, Volatility]
 sidebar_order: 14
 ---

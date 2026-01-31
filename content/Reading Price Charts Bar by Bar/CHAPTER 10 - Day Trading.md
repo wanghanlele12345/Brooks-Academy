@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10: Day Trading"
+title: "CHAPTER 10 - Day Trading"
 tags: [PriceAction, DayTrading, Scalping, Stocks, Futures]
 sidebar_order: 10
 ---

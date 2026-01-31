@@ -1,5 +1,5 @@
 ---
-title: "Chapter 15: Best Trades"
+title: "CHAPTER 15 - Best Trades"
 tags: [PriceAction, BestSetups, Reversal, TrendPullback, TradingPsychology]
 sidebar_order: 15
 ---

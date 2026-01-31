@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3: Trends"
+title: "CHAPTER 03 - Trends"
 tags: [PriceAction, Trends, Trading, Setups]
 sidebar_order: 3
 ---

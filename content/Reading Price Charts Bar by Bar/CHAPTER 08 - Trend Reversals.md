@@ -1,5 +1,5 @@
 ---
-title: "Chapter 8: Trend Reversals"
+title: "CHAPTER 08 - Trend Reversals"
 tags: [PriceAction, Reversal, Trendline, Trading]
 sidebar_order: 8
 ---

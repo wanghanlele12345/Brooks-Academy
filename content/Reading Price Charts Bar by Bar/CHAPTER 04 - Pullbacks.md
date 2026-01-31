@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4: Pullbacks"
+title: "CHAPTER 04 - Pullbacks"
 tags: [PriceAction, Pullbacks, EMA, Setup]
 sidebar_order: 4
 ---

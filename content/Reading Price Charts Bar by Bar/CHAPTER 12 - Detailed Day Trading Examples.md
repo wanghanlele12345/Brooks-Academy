@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12: Detailed Day Trading Examples"
+title: "CHAPTER 12 - Detailed Day Trading Examples"
 tags: [PriceAction, Reversal, Trading, Scalping, ChartPatterns]
 sidebar_order: 12
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2: Trendlines and Trend Channels"
+title: "CHAPTER 02 - Trendlines and Trend Channels"
 tags: [PriceAction, Trendlines, Channels, Trading]
 sidebar_order: 2
 ---

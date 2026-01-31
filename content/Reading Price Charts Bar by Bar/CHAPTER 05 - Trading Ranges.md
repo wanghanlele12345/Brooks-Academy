@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: Trading Ranges"
+title: "CHAPTER 05 - Trading Ranges"
 tags: [PriceAction, TradingRanges, BarbWire, Reversal]
 sidebar_order: 5
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9: Minor Reversals: Failures"
+title: "CHAPTER 09 - Minor Reversals: Failures"
 tags: [PriceAction, Reversal, Failure, Trap]
 sidebar_order: 9
 ---

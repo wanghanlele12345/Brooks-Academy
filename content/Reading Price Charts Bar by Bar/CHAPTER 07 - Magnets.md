@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7: Magnets"
+title: "CHAPTER 07 - Magnets"
 tags: [PriceAction, Magnets, MeasuredMove, Trading]
 sidebar_order: 7
 ---

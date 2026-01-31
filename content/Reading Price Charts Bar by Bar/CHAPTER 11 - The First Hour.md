@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11: The First Hour"
+title: "CHAPTER 11 - The First Hour"
 tags: [PriceAction, FirstHour, Opening, Gap]
 sidebar_order: 11
 ---

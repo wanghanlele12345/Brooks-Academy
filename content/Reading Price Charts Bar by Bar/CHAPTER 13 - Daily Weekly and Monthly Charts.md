@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13: Daily, Weekly, and Monthly Charts"
+title: "CHAPTER 13 - Daily, Weekly, and Monthly Charts"
 tags: [PriceAction, SwingTrading, HigherTimeFrame, GapTrading, Volume]
 sidebar_order: 13
 ---

@@ -1,5 +1,5 @@
 ---
-title: “Chapter 1： Price Action”
+title: "CHAPTER 01 - Price Action"
 tags: [PriceAction, Reversal, Trading]
 sidebar_order: 1
 ---
