@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 06 - Manual Exits"
 tags: [Exits, RiskManagement]
-order: 106
+order: 9
 ---
 
 # 第六章：主动出场 (Manual Exits)

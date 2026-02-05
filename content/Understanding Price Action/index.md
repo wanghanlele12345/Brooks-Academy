@@ -11,8 +11,6 @@ order: 0
 
 ## Table of Contents
 
-### [[Introduction]]
-
 ### PART I - Practical Analysis
 *   [[Understanding Price Action/PART I - Practical Analysis/CHAPTER 01 - A Time to Trade and a Time to Study|CHAPTER 01 - A Time to Trade and a Time to Study]]
 *   [[Understanding Price Action/PART I - Practical Analysis/CHAPTER 02 - Price Action Principles-Theory|CHAPTER 02 - Price Action Principles-Theory]]

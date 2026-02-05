@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 07 - Skipping Trades and Trading Breaks for Failure"
 tags: [TrapTrading, Filters]
-order: 107
+order: 10
 ---
 
 # 第七章：跳过交易与反向操作 (Skipping Trades and Trading Breaks for Failure)

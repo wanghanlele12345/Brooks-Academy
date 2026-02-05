@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 09 - Consecutive Intraday Charts"
 tags: [Review, CaseStudies]
-order: 201
+order: 21
 ---
 
 # 第九章：连续日内图表 (Consecutive Intraday Charts)

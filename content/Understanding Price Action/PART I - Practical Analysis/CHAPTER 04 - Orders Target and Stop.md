@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 04 - Orders, Target and Stop"
 tags: [RiskManagement, Orders]
-order: 104
+order: 7
 ---
 
 # 第四章：订单、目标与止损 (Orders, Target and Stop)

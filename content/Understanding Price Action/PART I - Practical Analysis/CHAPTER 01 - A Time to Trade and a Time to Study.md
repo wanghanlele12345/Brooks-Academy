@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 01 - A Time to Trade and a Time to Study"
 tags: [PriceAction, Psychology]
-order: 101
+order: 4
 ---
 
 # 第一章：交易之时与研习之时 (A Time to Trade and a Time to Study)

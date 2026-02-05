@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 08 - Recap Part 1"
 tags: [Review, Summary]
-order: 108
+order: 11
 ---
 
 # 第八章：第一部分总结 (Recap Part 1)

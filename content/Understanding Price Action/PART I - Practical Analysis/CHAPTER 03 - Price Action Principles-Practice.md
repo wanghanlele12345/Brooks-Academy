@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 03 - Price Action Principles-Practice"
 tags: [Practice, ChartAnalysis]
-order: 103
+order: 6
 ---
 
 # 第三章：价格行为原理——实战篇 (Price Action Principles-Practice)

@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 05 - Trade Setups"
 tags: [Setups, PatternBreak, Pullback]
-order: 105
+order: 8
 ---
 
 # 第五章：交易形态 (Trade Setups)

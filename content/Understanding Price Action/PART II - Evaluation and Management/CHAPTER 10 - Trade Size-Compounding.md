@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 10 - Trade Size-Compounding"
 tags: [MoneyManagement, Compounding]
-order: 202
+order: 22
 ---
 
 # 第十章：头寸规模与复利 (Trade Size-Compounding)

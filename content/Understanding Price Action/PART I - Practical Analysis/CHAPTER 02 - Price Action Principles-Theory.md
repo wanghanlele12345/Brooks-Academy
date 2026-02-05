@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 02 - Price Action Principles-Theory"
 tags: [Theory, DoublePressure, SupportResistance]
-order: 102
+order: 5
 ---
 
 # 第二章：价格行为原理——理论篇 (Price Action Principles-Theory)

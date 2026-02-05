@@ -1,7 +1,7 @@
 ---
 title: "CHAPTER 12 - Final Words"
 tags: [Conclusion, Mindset]
-order: 204
+order: 24
 ---
 
 # 第十二章：结语 (Final Words)
