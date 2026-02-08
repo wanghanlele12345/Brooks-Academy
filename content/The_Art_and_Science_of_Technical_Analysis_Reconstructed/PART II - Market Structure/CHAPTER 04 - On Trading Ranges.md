@@ -31,7 +31,7 @@
 *   当价格回落至原阻力位（现在的盈亏平衡点）时，他们急于平仓（买入平空）。
 *   这种买盘力量构成了支撑。
 
-![Resistance Becomes Support](../media/images/00066.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00066.jpg|Resistance Becomes Support]]
 *Figure 4.1: 阻力转支撑的原理图解。*
 
 ### 3. 随机性实验：你真的有优势吗？
@@ -46,7 +46,7 @@
 很多交易者喜欢在支撑位买入，理由是：“止损可以设得很窄，如果做对了利润很大。”
 例如：风险1元，潜在利润10元。
 
-![Expectancy Fallacy](../media/images/00070.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00070.jpg|Expectancy Fallacy]]
 *Figure 4.5: 即使盈亏比高达10:1，如果在随机游走的市场中操作，你的胜率可能只有9%，期望值依然为零。*
 
 **结论**：仅仅有好的盈亏比是不够的。你必须通过**价格行为 (Price Action)** 确认在这个位置存在**非随机的买盘**（即优势），才能入场。
@@ -61,7 +61,7 @@
 它不应该是温和的停靠，而应该是**剧烈的拒绝**。
 价格触碰该区域后，瞬间反向爆发，留长下影线。这表明在此处买盘不仅存在，而且急切。
 
-![Price Rejection](../media/images/00077.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00077.jpg|Price Rejection]]
 *Figure 4.12: 高盛(GS)的15分钟图。均线触及支撑后被暴力弹开（点A），这是强烈的拒绝信号。*
 
 ### 2. 肮脏测试 (Sloppy Tests)
@@ -85,7 +85,7 @@
 这是最常见的情况。日线图上的混乱震荡，往往是周线图上的旗形整理。
 **策略**：预设趋势会延续，倾向于在区间支撑位顺大势买入。
 
-![HTF Clarity](../media/images/00079.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00079.jpg|HTF Clarity]]
 *Figure 4.14: 左侧日线图看似无序震荡，右侧周线图显示这是一个清晰的下降趋势中的回调（旗形）。大周期提供了方向指引。*
 
 ### 2. 反转形态 (Reversal)
@@ -108,7 +108,7 @@
 价格突破区间阻力，但无法站稳，迅速跌回。
 这是**派发**的典型特征。
 
-![Spring and Upthrust](../media/images/00074.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00074.jpg|Spring and Upthrust]]
 *Figure 4.9: 理想化的区间形态。Spring（弹簧）测试了底部，Upthrust（上冲）测试了顶部。最终的突破方向往往与Spring的方向相反。*
 
 ---
@@ -118,7 +118,7 @@
 *   **收敛区间 (Converging / Triangle)**：波动率压缩。这是能量的积蓄，往往预示着随后的爆发性突破。**策略：等待突破，不要逆势操作。**
 *   **扩散区间 (Expanding / Megaphone)**：波动率放大，高点更高，低点更低。这是市场情绪失控的表现。**策略：离场观望。** 这种形态极难交易，且容易两面打脸。
 
-![Converging Range](../media/images/00084.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00084.jpg|Converging Range]]
 *Figure 4.19: 收敛三角形。波动率逐渐降低，就像弹簧被压缩，预示着即将到来的单边行情。*
 
 ---

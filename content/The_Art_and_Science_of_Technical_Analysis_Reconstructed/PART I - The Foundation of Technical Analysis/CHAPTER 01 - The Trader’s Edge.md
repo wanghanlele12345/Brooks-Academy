@@ -59,10 +59,10 @@ $$E = (P_w \times W) - (P_l \times L)$$
 
 当资产价格波动超过 100%（翻倍）或跨度超过两年时，**必须**使用对数坐标。
 
-![DJIA Linear Scale](../media/images/00004.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00004.jpg|DJIA Linear Scale]]
 *Figure 1.1: 线性坐标下的道琼斯指数。注意1985年之前的波动几乎被压缩成一条直线。*
 
-![DJIA Log Scale](../media/images/00005.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00005.jpg|DJIA Log Scale]]
 *Figure 1.2: 对数坐标下的道琼斯指数。展示了更一致的市场波动体验。*
 
 ### 3. 时间框架的黄金法则
@@ -86,32 +86,32 @@ $$E = (P_w \times W) - (P_l \times L)$$
 *   **二级枢轴 (Second-order Pivot)**：被更低的*一级高点*包围的*一级高点*。
 *   **三级枢轴 (Third-order Pivot)**：通常标志着主要趋势的转折点。
 
-![Pivot Highs and Lows](../media/images/00007.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00007.jpg|Pivot Highs and Lows]]
 *Figure 1.3: 图中标记了每一个一级枢轴点。*
 
-![Second Order Pivots](../media/images/00008.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00008.jpg|Second Order Pivots]]
 *Figure 1.4: 二级枢轴点（箭头所示）开始定义更有意义的市场结构。*
 
-![Third Order Pivots](../media/images/00009.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00009.jpg|Third Order Pivots]]
 *Figure 1.5: 三级枢轴点。通常定义了任何时间框架上最重要的市场结构。*
 
 ### 2. 四大基础形态模板
 
 所有复杂的形态都源于这四个基本原型的变体：
 
-![Uptrend](../media/images/00010.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00010.jpg|Uptrend]]
 *Figure 1.6: **趋势 (Trend)** —— 更高的高点，更高的低点。*
 
-![Trading Range](../media/images/00011.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00011.jpg|Trading Range]]
 *Figure 1.7: **交易区间 (Trading Range)** —— 均衡状态。*
 
-![Break in Trend](../media/images/00012.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00012.jpg|Break in Trend]]
 *Figure 1.8: **趋势中断 (Break in Trend)** —— 趋势转弱信号。*
 
-![Breakout](../media/images/00013.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00013.jpg|Breakout]]
 *Figure 1.9: **突破 (Breakout)** —— 从区间转为趋势。*
 
-![Higher Lows into Resistance](../media/images/00014.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00014.jpg|Higher Lows into Resistance]]
 *Figure 1.10: **优质突破的前兆** —— 价格在阻力位下方形成了更高的低点 (Higher Lows)。*
 
 ---
@@ -120,16 +120,16 @@ $$E = (P_w \times W) - (P_l \times L)$$
 
 **"Do not accept price bars at face value."（不要只看K线的表面。）**
 
-![Single Candle](../media/images/00015.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00015.jpg|Single Candle]]
 *Figure 1.11: 这一根K线，包含了什么信息？*
 
-![Lower Time Frame Scenarios](../media/images/00016.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00016.jpg|Lower Time Frame Scenarios]]
 *Figure 1.12: 同一根K线背后可能的小周期路径。*
 
-![TF Interaction](../media/images/00017.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00017.jpg|TF Interaction]]
 *Figure 1.13: 1分钟与15分钟S&P K线对比，展示了高周期K线内部的低周期趋势与区间。*
 
-![Triangle in Inside Bars](../media/images/00021.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00021.jpg|Triangle in Inside Bars]]
 *Figure 1.17: 右侧小时图的连续孕线，在左侧10分钟图上是一个清晰的收敛三角形。*
 
 ---
@@ -138,7 +138,7 @@ $$E = (P_w \times W) - (P_l \times L)$$
 
 ### Kagi图 (Swing Chart) 的逻辑
 
-![Kagi Chart](../media/images/00022.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00022.jpg|Kagi Chart]]
 *Figure 1.18: 手绘 Swing Chart (Kagi图) 示例。*
 
 ---

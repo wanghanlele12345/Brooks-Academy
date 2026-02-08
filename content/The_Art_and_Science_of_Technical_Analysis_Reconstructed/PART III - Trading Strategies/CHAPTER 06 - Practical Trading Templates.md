@@ -48,7 +48,7 @@
 *   **触发机制 A（激进）**：直接在回调底部的支撑位（或均线）挂单买入。风险较难量化。
 *   **触发机制 B（推荐）**：画出回调通道线，等待价格刺穿通道线后迅速收回（小周期的失败测试）时入场。
 
-![Pullback Entry](../media/images/00108.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00108.jpg|Pullback Entry]]
 *Figure 6.4: 完美的入场往往伴随着下影线（拒绝），显示小周期的卖盘枯竭。*
 
 ### 2. 交易管理
@@ -98,7 +98,7 @@
 2.  **动量转移 (Impulse)**：出现一波强劲的、**性质改变**的逆势运动（如大阴线暴跌）。
 3.  **入场点**：等待这波逆势运动后的**第一次微弱回调**。
 
-![The Anti](../media/images/00121.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00121.jpg|The Anti]]
 *Figure 6.14: 30分钟图上的 Anti 做空设置。A点为趋势高潮，B点为强劲逆势脉冲，C点为无力的回调（入场点）。*
 
 ### 2. 关键细节

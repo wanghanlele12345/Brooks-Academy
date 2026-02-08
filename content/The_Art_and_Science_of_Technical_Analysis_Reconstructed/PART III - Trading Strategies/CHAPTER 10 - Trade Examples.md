@@ -25,7 +25,7 @@
 ### 1. 简单回调 (Simple Pullback)
 *   **案例**：Zagg, Inc. (ZAGG)
 
-![Simple Pullback in ZAGG](../media/images/00188.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00188.jpg|Simple Pullback in ZAGG]]
 *Figure 10.3: 一个教科书式的简单回调入场。注意即使指标超买，强势股依然可以买入。*
 
 *   **要点**：即使在大周期超买的情况下，如果这是相对强度领先者 (Relative Strength Leader)，依然可以做多。
@@ -34,7 +34,7 @@
 ### 2. 下位时间框架的高潮 (Lower Time Frame Climax)
 *   **案例**：白银 (Silver)
 
-![Lower Time Frame Climax](../media/images/00190.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00190.jpg|Lower Time Frame Climax]]
 *Figure 10.5: 日线图的普通回调，在小时图上是剧烈的抛售高潮，提供了绝佳入场点。*
 
 *   **逻辑**：日线图上的小回调，在小时图上可能是一个完美的**抛售高潮 (Selling Climax)**。
@@ -43,7 +43,7 @@
 ### 3. 高而紧的旗形 (High and Tight Flag)
 *   **案例**：Amazon (AMZN)
 
-![High and Tight Flag](../media/images/00192.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00192.jpg|High and Tight Flag]]
 *Figure 10.7: 强劲上涨后拒绝回调，紧贴高点横盘，预示着买盘极其强劲。*
 
 *   **特征**：在一波强劲上涨后，价格拒绝回调，紧贴高点横盘。这意味着空头完全被压制。
@@ -52,7 +52,7 @@
 ### 4. 复杂回调 (Complex Pullback)
 *   **案例**：欧元/美元 (EURUSD)
 
-![Complex Pullback in EURUSD](../media/images/00196.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00196.jpg|Complex Pullback in EURUSD]]
 *Figure 10.11: 第一个简单回调失败了，但这演变成了一个更稳健的复杂回调结构。*
 
 *   **教训**：很多交易者在第一个简单回调失败（止损）后就放弃了。错！**简单回调失败往往演变成复杂回调**。
@@ -67,7 +67,7 @@
 ### 1. 失败测试 (Failure Test)
 *   **案例**：Ann Taylor (ANN)
 
-![Failure Test in ANN](../media/images/00204.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00204.jpg|Failure Test in ANN]]
 *Figure 10.19: 价格创新高后立即反转收低，是一个经典的做空信号。*
 
 *   **核心**：价格创出新高后迅速反转收低。
@@ -76,7 +76,7 @@
 ### 2. 抛物线高潮 (Parabolic Climaxes)
 *   **案例**：白银 (Silver) 的疯狂上涨
 
-![Parabolic Climax in Silver](../media/images/00211.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00211.jpg|Parabolic Climax in Silver]]
 *Figure 10.26: 面对这种垂直上涨，不要盲目做空，也不要过早卖出，而是不断收紧止损。*
 
 *   **心态**：当市场进入垂直上涨时，**不要急着摸顶**。
@@ -90,14 +90,14 @@ Anti 是捕捉趋势反转后第一波段的利器。
 
 *   **案例**：First Majestic Silver (AG)
 
-![Anti Setup in AG](../media/images/00214.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00214.jpg|Anti Setup in AG]]
 *Figure 10.29: 抛物线高潮后接剧烈崩盘，随后的无力反弹构成了 Anti 做空机会。*
 
 *   **识别**：一波抛物线高潮 -> 剧烈崩盘 (Impulse) -> **无力的反弹 (Reluctant Bounce)**。
 *   **操作**：在那个“无力反弹”的小旗形被跌破时做空。这是多头彻底绝望的时刻。
 *   **失败**：如果入场后价格没有迅速崩跌，而是横盘震荡，说明空头力量不足，立即离场。
 
-![Anti Failure](../media/images/00220.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00220.jpg|Anti Failure]]
 *Figure 10.35: Anti 失败的案例。价格入场后仅仅是横盘，没有动能，应立即离场。*
 
 ---
@@ -107,7 +107,7 @@ Anti 是捕捉趋势反转后第一波段的利器。
 ### 1. 突破前埋伏 (Entering in Base)
 *   **案例**：VirnetX (VHC)
 
-![Entering in Base](../media/images/00223.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00223.jpg|Entering in Base]]
 *Figure 10.38: 在正式突破前的震荡区间底部，利用弹簧效应 (Spring) 提前入场。*
 
 *   **逻辑**：与其在突破发生的瞬间去追（面临滑点和假突破风险），不如在突破前的震荡区间底部，利用弹簧效应 (Spring) 埋伏买入。
@@ -116,7 +116,7 @@ Anti 是捕捉趋势反转后第一波段的利器。
 ### 2. 突破后回调 (Breakout Pullback)
 *   **案例**：JPMorgan (JPM)
 
-![Breakout Pullback](../media/images/00225.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00225.jpg|Breakout Pullback]]
 *Figure 10.40: 真正的突破后回调往往形态复杂，不要死守突破价位，要看供需结构。*
 
 *   **真相**：不要死盯着突破价位。真正的回调入场点可能高于突破价，也可能暂时刺穿突破价。关键看**回调的形态**（是否缩量、是否无力）。
@@ -129,12 +129,12 @@ Anti 是捕捉趋势反转后第一波段的利器。
 
 *   **失败测试的失败**：你做空了假突破，结果价格只是横盘整理，没有下跌。**快跑！** 横盘意味着买盘在消化卖压，随后往往是更猛烈的上涨。
 
-![Failure Test Failure](../media/images/00209.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00209.jpg|Failure Test Failure]]
 *Figure 10.24: 失败测试失败了。做空后价格拒绝下跌，反而横盘，随后向上突破。*
 
 *   **回调的失败**：你买入回调，结果强劲的抛压涌出。**止损并反手！** 这可能是一个 Anti 的 setup。
 
-![Pullback Failure](../media/images/00202.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00202.jpg|Pullback Failure]]
 *Figure 10.17: 回调失败。强劲的下杀动能直接破坏了回调结构，多头应立即止损。*
 
 ---

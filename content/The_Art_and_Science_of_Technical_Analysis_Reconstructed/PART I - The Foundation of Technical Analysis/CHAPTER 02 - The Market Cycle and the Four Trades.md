@@ -10,7 +10,7 @@
 
 威科夫将市场划分为四个阶段，这是一个生生不息的循环。
 
-![Wyckoff Cycle](../media/images/00023.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00023.jpg|Wyckoff Cycle]]
 *Figure 2.1: 经典的威科夫市场周期：吸筹、上涨、派发、下跌。*
 
 ### 第一阶段：吸筹 (Accumulation) —— 潜伏的巨鲸
@@ -19,7 +19,7 @@
 
 *   **Spring (弹簧效应/失败测试)**：价格跌破区间下沿，诱空后迅速拉回。
 
-![Accumulation in Platinum](../media/images/00024.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00024.jpg|Accumulation in Platinum]]
 *Figure 2.2: 白金期货日线。点A处的Spring（弹簧效应）是极其关键的机构试盘信号。*
 
 ---

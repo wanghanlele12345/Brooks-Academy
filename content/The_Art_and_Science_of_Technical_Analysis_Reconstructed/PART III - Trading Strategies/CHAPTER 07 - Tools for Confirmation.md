@@ -33,7 +33,7 @@
 *   **回调的参考点**：不要指望均线提供物理支撑，但可以把它视为“价值回归”的参考。
     *   **规则**：**不要在价格远离均线时追涨杀跌**。等待价格回撤到均线附近，消除了超买/超卖状态后，再寻找入场点。这能让你避免做“蠢事”。
 
-![Moving Average Pullback](../media/images/00135.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00135.jpg|Moving Average Pullback]]
 *Figure 7.4: 使用均线作为回调买入的参考基准。*
 
 ---
@@ -48,7 +48,7 @@
 *   **凯特纳通道（推荐）**：基于平均真实波幅 (ATR)。它更稳定，更能如实反映价格的波动范围。
     *   **参数建议**：2.5 倍 ATR 左右，通常能包含 90% 左右的价格行为。
 
-![Bollinger vs Keltner](../media/images/00137.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00137.jpg|Bollinger vs Keltner]]
 *Figure 7.6 (上): 布林带的过度膨胀。 Figure 7.7 (下): 凯特纳通道表现更稳定。*
 
 ### 2. 通道交易策略
@@ -70,7 +70,7 @@ MACD 是一个**动量指标 (Momentum Indicator)**，不是超买超卖指标�
 **核心原理**：在健康的趋势中，动量的新高通常会先于价格的绝对高点出现。
 *   **应用**：如果 MACD 快线创出新高（Fast Line Pop），说明多头力量强劲。随后的第一次回调通常是安全的买入机会。
 
-![MACD New Highs](../media/images/00143.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00143.jpg|MACD New Highs]]
 *Figure 7.11: MACD 创出新高（C点），预示着随后的价格即使回调，也有很大概率再创新高。*
 
 ### 2. 动量背离 (Momentum Divergence) —— 的两面性
@@ -102,7 +102,7 @@ MACD 是一个**动量指标 (Momentum Indicator)**，不是超买超卖指标�
 如果在周线图上，价格已经极端偏离通道（过热），那么日线图上看起来不错的买入形态（如突破），很可能会失败。
 **策略**：利用大周期的“过度延伸”来过滤掉胜率低的小周期顺势交易。
 
-![HTF Exhaustion](../media/images/00153.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00153.jpg|HTF Exhaustion]]
 *Figure 7.21: 周线图（右）的极端耗尽形态，否定了日线图（左）看似合理的买入机会。*
 
 #### B. 大周期回调 = 小周期趋势 (HTF Pullback = LTF Trend)

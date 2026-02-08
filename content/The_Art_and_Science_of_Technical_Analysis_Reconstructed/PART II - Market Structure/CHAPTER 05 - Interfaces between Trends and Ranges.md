@@ -31,13 +31,13 @@
 *   **紧逼阻力 (Higher Lows into Resistance)**：
     当价格在阻力位下方形成一系列更高的低点（上升三角形）时，这表明买方非常急切，甚至不愿意等待深幅回调。这是一种**强迫性买入**的征兆。
 
-![Higher Lows into Resistance](../media/images/00088.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00088.jpg|Higher Lows into Resistance]]
 *Figure 5.2: 价格在阻力位下方不断抬高底部，像弹簧一样被压缩。这种突破往往也是真的。*
 
 *   **临界点蓄势 (Tight Range near Extreme)**：
     在即将突破的边缘，价格形成了一个极窄的横盘区间（小于大区间的25%）。这显示了大资金正在最后吸纳筹码，准备发起总攻。
 
-![Tight Range Pre-breakout](../media/images/00089.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00089.jpg|Tight Range Pre-breakout]]
 *Figure 5.3: 突破前夕的窄幅整理。这是暴风雨前的宁静。*
 
 ### 3. 滑点是好事 (Slippage Is Good)
@@ -57,7 +57,7 @@
 价格刺穿阻力位，触发了上方的止损盘和追涨盘，但在短短几根K线内就失去了动能，并迅速跌回区间内部。
 这种形态被称为“火鸡射击”——火鸡刚把头伸出栅栏就被打掉了。
 
-![Breakout Failures](../media/images/00092.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00092.jpg|Breakout Failures]]
 *Figure 5.6: 点A展示了典型的假突破。价格刺穿后迅速遭遇强烈拒绝。*
 
 ### 2. 失败的回踩 (Failed Pullback)
@@ -66,7 +66,7 @@
 *   场景：价格突破阻力（看似成功） -> 回踩阻力位（看似正常） -> **突然崩溃，跌穿阻力位并加速下跌**。
 *   含义：多头试图防守突破口失败，恐慌盘涌出。此时是建立反向空头头寸的最佳时机。
 
-![Failure Pullback](../media/images/00094.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00094.jpg|Failure Pullback]]
 *Figure 5.8: 点C处，突破后的回踩失败，大阴线跌回区间。这引发了点D处的绝佳做空机会（Confirming Pullback）。*
 
 ---
@@ -79,7 +79,7 @@
 *   **回踩失败**：价格回踩后试图恢复趋势，但无力突破前高（Lower High）。
 *   **微观结构破坏**：出现第一个比上涨波段更长的下跌波段。
 
-![Trend to Range](../media/images/00096.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00096.jpg|Trend to Range]]
 *Figure 5.10: 趋势末端的失败测试。价格试图创新高失败（Lower High），随后跌破颈线，趋势正式转为区间震荡。*
 
 ---
@@ -94,7 +94,7 @@
 *   **特征**：K线巨大，完全脱离均线通道。
 *   **后果**：最后的买家入场后，下方形成真空。价格将像石头一样坠落。
 
-![Parabolic Climax](../media/images/00098.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00098.jpg|Parabolic Climax]]
 *Figure 5.12: 小麦期货的超级高潮。价格呈抛物线加速（C段），这是不可持续的。随后的崩盘没有任何支撑。*
 
 ### 2. 回光返照 (Last Gasp)
@@ -103,7 +103,7 @@
 *   场景：趋势已经显露疲态 -> 经过长时间盘整 -> 突然再次向上突破创新高 -> **迅速失败并跌回 (Upthrust)**。
 *   这是最阴险的形态，它诱捕了最后一批试图做多突破的交易者。
 
-![Last Gasp](../media/images/00101.jpg)
+![[The_Art_and_Science_of_Technical_Analysis_Reconstructed/Images/images/00101.jpg|Last Gasp]]
 *Figure 5.15: 迪士尼(DIS)的顶部。在长期上涨后，出现了一个标准的Upthrust（上冲回落），彻底终结了牛市。*
 
 ---
