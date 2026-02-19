@@ -10,7 +10,7 @@ order: 18
 
 市场由人驱动，而人具有**改变抗拒性（Resistant to changes）**。当趋势接近末端，原本的领袖（如多头）不愿接受失败，他们会反复发起冲锋，这就是为什么市场顶部通常表现为一个区域而非一个点。
 
-![Extreme Positions of a Pendulum Swing](../Images/00041.jpeg)
+![Extreme Positions of a Pendulum Swing](/The Secrets of Trading The First Pullback/Images/00041.jpeg)
 *图 6-9：钟摆波动中的极端位置（方框处）*
 
 **【深层逻辑】**：
@@ -23,29 +23,29 @@ order: 18
 
 当价格（以牛市为例）在回调后重新向上攀升，它将面临前高的“终极测试”。
 
-![Test of the Extremes](../Images/00042.jpeg)
+![Test of the Extremes](/The Secrets of Trading The First Pullback/Images/00042.jpeg)
 *图 6-10：健康的趋势测试（HH & HL）*
 
 ### 场景一：LH & LL —— 经典的回调失败
-![Lower High and Lower Low](../Images/00043.jpeg)
+![Lower High and Lower Low](/The Secrets of Trading The First Pullback/Images/00043.jpeg)
 *图 6-11：较低的高点与较低的低点*
 *   **逻辑**：价格无力挑战前高（形成 LH），随后直接跌破前低 A（形成 LL）。
 *   **意义**：这是权力的正式移交。**LH 不足以确认反转，只有 LL 的出现才是死刑判决。**
 
 ### 场景二：Double Top —— 心理共识的崩塌
-![Double Top and Lower Low](../Images/00044.jpeg)
+![Double Top and Lower Low](/The Secrets of Trading The First Pullback/Images/00044.jpeg)
 *图 6-12：双重顶结构*
 *   **逻辑**：价格触及前高后无法前行。
 *   **心理**：因为“双顶”在视觉上极易识别，这会引发全球交易者的抛售共鸣。这种**“自我实现预言”**让反转的可能性呈几何倍数增加。
 
 ### 场景三：HH & LL —— 致命的诱多陷阱
-![Higher High and Lower Low](../Images/00045.jpeg)
+![Higher High and Lower Low](/The Secrets of Trading The First Pullback/Images/00045.jpeg)
 *图 6-13：新高后的巨量杀跌*
 *   **逻辑**：价格创出新高（HH）瞬间诱使突破交易者入场，随后被卖方迅速吞没并创出新低（LL）。
 *   **特征**：这通常表现为一根巨大的看涨棒紧接着一根更大的看跌趋势棒（吞没形态）。这展示了卖方**雷霆万钧的承诺（Commitment）**。
 
 ### 场景四：HH & HL —— 虚惊一场的延续
-![Higher High and Higher Low](../Images/00046.jpeg)
+![Higher High and Higher Low](/The Secrets of Trading The First Pullback/Images/00046.jpeg)
 *图 6-14：更高的高点与更高的低点*
 *   **逻辑**：价格创出新高后回落，但仍守住了高低点的递增结构。
 *   **意义**：测试并未结束，这仅仅是趋势中的又一个普通回调。

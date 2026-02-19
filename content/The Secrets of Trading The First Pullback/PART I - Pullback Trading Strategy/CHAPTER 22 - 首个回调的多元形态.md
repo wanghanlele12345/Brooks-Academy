@@ -18,7 +18,7 @@ order: 25
 
 ## 8.4.2 形态一：双顶/双底与颈线回测
 
-![Double Top Neckline Pullback](../Images/00065.jpeg)
+![Double Top Neckline Pullback](/The Secrets of Trading The First Pullback/Images/00065.jpeg)
 *图 8-9：双顶结构下的首个回调演化*
 
 **【博弈逻辑】**：
@@ -33,7 +33,7 @@ order: 25
 
 震荡市是多空双方因犹豫而产生的“弹簧”压缩期。
 
-![Range Market Breakout Pullback](../Images/00066.jpeg)
+![Range Market Breakout Pullback](/The Secrets of Trading The First Pullback/Images/00066.jpeg)
 *图 8-10：震荡区间突破后的回踩逻辑*
 
 **【实战分析】**：
@@ -45,7 +45,7 @@ order: 25
 
 ## 8.4.4 形态三：头肩顶（H&S）—— 系统的竭尽
 
-![Head & Shoulder Pattern](../Images/00067.jpeg)
+![Head & Shoulder Pattern](/The Secrets of Trading The First Pullback/Images/00067.jpeg)
 *图 8-11：头肩形态的三重测试*
 
 **【深层洞察】**：
@@ -58,7 +58,7 @@ order: 25
 
 作者将回调逻辑融入了经典的波浪理论。
 
-![Elliot Wave Theory](../Images/00068.jpeg)
+![Elliot Wave Theory](/The Secrets of Trading The First Pullback/Images/00068.jpeg)
 *图 8-12：艾略特波浪中的回调位置*
 
 **【核心价值点】**：

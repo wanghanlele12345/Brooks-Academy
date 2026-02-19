@@ -10,7 +10,7 @@ order: 22
 
 在每一个交易者的梦境中，最完美的交易莫过于在最低点买入，在最高点卖出。
 
-![Ideal Top and Bottom Entries](../Images/00057.jpeg)
+![Ideal Top and Bottom Entries](/The Secrets of Trading The First Pullback/Images/00057.jpeg)
 *图 8-1：梦幻般的顶底交易模型*
 
 **【现实的残酷】**：
@@ -23,7 +23,7 @@ order: 22
 
 既然捕捉不到绝对的转折点，我们就追求**“次优入场位”**。
 
-![Near Top and Bottom Entries](../Images/00058.jpeg)
+![Near Top and Bottom Entries](/The Secrets of Trading The First Pullback/Images/00058.jpeg)
 *图 8-2：新趋势启动后的“首个回调”入场模型*
 
 **【核心逻辑】**：

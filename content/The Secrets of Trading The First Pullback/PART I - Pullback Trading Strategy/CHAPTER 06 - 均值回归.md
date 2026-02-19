@@ -10,7 +10,7 @@ order: 9
 
 市场的运行并非杂乱无章，它遵循着一套类似于物理学钟摆的逻辑。
 
-![Reversion to Mean - Pendulum Model](../Images/00007.jpeg)
+![Reversion to Mean - Pendulum Model](/The Secrets of Trading The First Pullback/Images/00007.jpeg)
 *图 4-6：均值回归模型 —— 偏离距离 (x) 与时间 (t) 的关系图*
 
 **【深度解析：钟摆的三个生命周期】**：
@@ -24,7 +24,7 @@ order: 9
 
 与物理钟摆不同，市场的“中心”并不是静止的。
 
-![Google Inc showing Reversion to Mean](../Images/00008.jpeg)
+![Google Inc showing Reversion to Mean](/The Secrets of Trading The First Pullback/Images/00008.jpeg)
 *图 4-7：谷歌（GOOG）日线图展示的均值回归现象*
 
 **【深度解析：移动平均线的角色】**：
@@ -39,7 +39,7 @@ order: 9
 
 通过观察价格与均值的相对位置，我们可以清晰地识别当前的市场环境。
 
-![Range Market Vs Trending Market](../Images/00009.jpeg)
+![Range Market Vs Trending Market](/The Secrets of Trading The First Pullback/Images/00009.jpeg)
 *图 4-8：震荡市场与趋势市场的行为学差异*
 
 **【深度解析：如何区分“假回调”与“真趋势”】**：

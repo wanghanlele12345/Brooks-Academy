@@ -10,7 +10,7 @@ order: 27
 
 这是针对欧元兑美元（EURUSD）60 分钟图的深度拆解。
 
-![Double Top Neckline Pullback](../Images/00069.jpeg)
+![Double Top Neckline Pullback](/The Secrets of Trading The First Pullback/Images/00069.jpeg)
 *图 9-1：EURUSD 双顶结构下的线索堆叠*
 
 **【证据链堆叠过程】**：
@@ -26,7 +26,7 @@ order: 27
 
 这是针对欧元兑美元（EURUSD）4 小时图的进阶拆解。
 
-![Range Market Breakout Pullback](../Images/00070.jpeg)
+![Range Market Breakout Pullback](/The Secrets of Trading The First Pullback/Images/00070.jpeg)
 *图 9-2：震荡区间崩塌后的多重确认*
 
 **【证据链堆叠过程】**：

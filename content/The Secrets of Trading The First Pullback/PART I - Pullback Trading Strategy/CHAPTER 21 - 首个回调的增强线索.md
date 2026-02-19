@@ -10,10 +10,10 @@ order: 24
 
 在识别新趋势之前，我们必须先确认旧趋势已经死得“透彻”。
 
-![Pullback Fails in Old Direction](../Images/00061.jpeg)
+![Pullback Fails in Old Direction](/The Secrets of Trading The First Pullback/Images/00061.jpeg)
 *图 8-5：旧趋势中的初步失效（C 破 A）*
 
-![Trend Bar showing confirmation of Failed Pullback](../Images/00062.jpeg)
+![Trend Bar showing confirmation of Failed Pullback](/The Secrets of Trading The First Pullback/Images/00062.jpeg)
 *图 8-6：带有趋势大棒的强势失效确认*
 
 **【博弈解构】**：
@@ -41,13 +41,13 @@ order: 24
 通过对比图 8-7（日线）和图 8-8（4 小时图），我们可以看到顶级交易员是如何跨周期作业的。
 
 ### 步骤一：在大周期寻找“极端信号”
-![Silver showing Market Extreme on Daily Chart](../Images/00063.jpeg)
+![Silver showing Market Extreme on Daily Chart](/The Secrets of Trading The First Pullback/Images/00063.jpeg)
 *图 8-7：白银日线图 —— 极度偏离均值（乖离率过大）*
 *   **观察点**：价格距离红线（均值）极远，且在方框处出现了**高潮性（Climax）**波动。
 *   **结论**：日线级别已进入危险区，买方动能枯竭，正在等待“最后一根稻草”。
 
 ### 步骤二：在小周期捕捉“首个回调”
-![Silver showing First Pullback on 4 Hour chart](../Images/00064.jpeg)
+![Silver showing First Pullback on 4 Hour chart](/The Secrets of Trading The First Pullback/Images/00064.jpeg)
 *图 8-8：4 小时图 —— 权力的微观移交（对应日线方框区域）*
 *   **1. 终极测试**：价格形成双重顶（Double Top），拒绝进一步走高。
 *   **2. 结构坍塌**：价格跌破 A 点，创下 **LL（Bar 1）**。
