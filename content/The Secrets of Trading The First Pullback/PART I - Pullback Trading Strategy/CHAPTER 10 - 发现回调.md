@@ -10,7 +10,7 @@ order: 13
 
 回调不是一个静态的形态，而是一个不断自我复制的动态过程。
 
-![Repeated ABCD](/The Secrets of Trading The First Pullback/Images/00027.jpeg)
+![[00027.jpeg]]
 *图 5-18：连续嵌套的 ABCD 循环*
 
 **【深度解析：如何捕捉“新鲜”的回调】**：
@@ -26,7 +26,7 @@ order: 13
 
 虽然 ABCD 逻辑严密，但在实战中，使用 **Swing High (H)** 和 **Swing Low (L)** 进行标注更为直观。
 
-![Defining Swing Highs and Lows](/The Secrets of Trading The First Pullback/Images/00028.jpeg)
+![[00028.jpeg]]
 *图 5-19：标注波动高点与波动低点*
 
 **【操作指南】**：
@@ -41,17 +41,17 @@ order: 13
 标注 H/L 的最大价值在于它能帮你瞬间判断当前的市场环境。
 
 ### A. 下跌趋势（Downward Trend）
-![Highs and Lows in Downward Trending Market](/The Secrets of Trading The First Pullback/Images/00029.jpeg)
+![[00029.jpeg]]
 *图 5-20：下跌趋势中的 H-L 序列*
 *   **特征**：H 和 L 不断下移。每一次 H 点的回拉都是完美的顺势切入点。
 
 ### B. 反转市场（Reversal Market）
-![Highs and Lows in Reversal Market](/The Secrets of Trading The First Pullback/Images/00030.jpeg)
+![[00030.jpeg]]
 *图 5-21：反转中的 H-L 异动*
 *   **特征**：原本规律的 H/L 序列被打乱（例如：低点不再降低，或者高点不再降低）。
 
 ### C. 震荡市场（Range Market）
-![Highs and Lows in Range Market](/The Secrets of Trading The First Pullback/Images/00031.jpeg)
+![[00031.jpeg]]
 *图 5-22：震荡市中的 H-L 对齐*
 *   **特征**：H 与 H 对齐（压力线），L 与 L 对齐（支撑线）。
 

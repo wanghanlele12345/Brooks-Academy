@@ -13,7 +13,7 @@ order: 12
 ### A. 深回调（Deep Pullback）
 价格逆着主导趋势（DTD）移动了相当长的距离。
 
-![Deep Pullback](/The Secrets of Trading The First Pullback/Images/00013.jpeg)
+![[00013.jpeg]]
 *图 5-4：深回调示例*
 
 *   **特征**：由连续的几根强力反向棒组成，包含一两根长棒。
@@ -22,7 +22,7 @@ order: 12
 ### B. 浅回调（Shallow Pullback）
 价格仅微弱地对抗主趋势。
 
-![Shallow Pullback](/The Secrets of Trading The First Pullback/Images/00014.jpeg)
+![[00014.jpeg]]
 *图 5-5：浅回调示例*
 
 *   **特征**：包含大量十字星（Doji）和小实体棒。
@@ -31,7 +31,7 @@ order: 12
 ### C. 锐回调（Sharp Pullback）
 核心在于**速度**而非深度。
 
-![Sharp Pullback](/The Secrets of Trading The First Pullback/Images/00015.jpeg)
+![[00015.jpeg]]
 *图 5-6：锐回调示例*
 
 *   **特征**：通常仅由一两根极长的反向棒组成，在极短时间内完成修正。
@@ -40,7 +40,7 @@ order: 12
 ### D. 平回调（Flat Pullback）
 这是浅回调的极端形式。
 
-![Flat Pullback](/The Secrets of Trading The First Pullback/Images/00016.jpeg)
+![[00016.jpeg]]
 *图 5-7：平回调示例*
 
 *   **特征**：价格几乎不下跌，仅横向震荡。
@@ -55,8 +55,8 @@ order: 12
 ### A. 楔形（Wedge）：被压缩的弹簧
 分上升楔形（Rising）和下降楔形（Falling）。
 
-![Rising Wedge Pullback](/The Secrets of Trading The First Pullback/Images/00017.jpeg)
-*图 5-8：上升楔形* | ![Falling Wedge Pullback](/The Secrets of Trading The First Pullback/Images/00018.jpeg)
+![[00017.jpeg]]
+*图 5-8：上升楔形* | ![[00018.jpeg]]
 *图 5-9：下降楔形*
 
 *   **逻辑**：价格波动范围逐渐缩小，上下边界线收敛。
@@ -65,8 +65,8 @@ order: 12
 
 ### B. 旗形（Flag）：倾斜的小型通道
 
-![Flag Pullback](/The Secrets of Trading The First Pullback/Images/00019.jpeg)
-*图 5-10：上升旗形* | ![Falling Flag Pullback](/The Secrets of Trading The First Pullback/Images/00020.jpeg)
+![[00019.jpeg]]
+*图 5-10：上升旗形* | ![[00020.jpeg]]
 *图 5-11：下降旗形*
 
 *   **逻辑**：上下边界线平行，形成一个小型的逆向通道。
@@ -74,7 +74,7 @@ order: 12
 
 ### C. 矩形/震荡盒（Rectangle / Sideway）
 
-![Rectangle Pullback 2.jpg](/The Secrets of Trading The First Pullback/Images/00021.jpeg)
+![[00021.jpeg]]
 *图 5-12：水平矩形回调*
 
 *   **逻辑**：由明确的水平支撑（Floor）和压力（Ceiling）构成。
@@ -82,7 +82,7 @@ order: 12
 
 ### D. 双重底/顶（Double Bottom / Top）
 
-![Double Bottom Pullback.jpg](/The Secrets of Trading The First Pullback/Images/00022.jpeg)
+![[00022.jpeg]]
 *图 5-13：双重底回调*
 
 *   **逻辑**：价格两次测试同一水平位。
@@ -90,9 +90,9 @@ order: 12
 
 ### E. 三角形类（Triangles & Pennants）
 
-![Ascending Triangle Pullback.jpg](/The Secrets of Trading The First Pullback/Images/00023.jpeg)
-*图 5-14：上升三角形* | ![Descending Triangle Pullback.jpg](/The Secrets of Trading The First Pullback/Images/00024.jpeg)
-*图 5-15：下降三角形* | ![Pennant Pullback.jpg](/The Secrets of Trading The First Pullback/Images/00025.jpeg)
+![[00023.jpeg]]
+*图 5-14：上升三角形* | ![[00024.jpeg]]
+*图 5-15：下降三角形* | ![[00025.jpeg]]
 *图 5-16：三角旗形*
 
 *   **逻辑**：上升三角形（压力线平直，低点抬高）预示着上方的卖盘正在逐渐被多头蚕食（Consume）。
@@ -100,7 +100,7 @@ order: 12
 
 ### F. 扩张楔形（Widening Wedge）：危险的绞肉机
 
-![Widening Wedge.jpg](/The Secrets of Trading The First Pullback/Images/00026.jpeg)
+![[00026.jpeg]]
 *图 5-17：扩张楔形*
 
 *   **逻辑**：价格波动逐渐放大，边界线发散。

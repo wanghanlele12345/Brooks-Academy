@@ -10,7 +10,7 @@ order: 16
 
 当价格（在上升趋势中）跌破 A 点，这不仅仅是一个止损信号，它是一个**结构性的宣判**。
 
-![When Pullbacks Fail](/The Secrets of Trading The First Pullback/Images/00037.jpeg)
+![[00037.jpeg]]
 *图 6-4：回调失败的几何模型*
 
 **【核心洞见】**：
@@ -37,7 +37,7 @@ order: 16
 
 再次审视道琼斯工业指数的运行轨迹（图 6-5），我们可以看到环境切换的无序性。
 
-![Dow Jones Index showing Mixed Market](/The Secrets of Trading The First Pullback/Images/00006.jpeg)
+![[00006.jpeg]]
 *图 6-5：混合市场中的环境漂移*
 
 **【实战分析】**：

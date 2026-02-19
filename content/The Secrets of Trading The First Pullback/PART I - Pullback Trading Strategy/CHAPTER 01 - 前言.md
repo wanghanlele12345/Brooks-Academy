@@ -4,7 +4,7 @@ tags: [PriceAction, Pullback, Setup]
 order: 4
 ---
 
-![Book Cover](/The Secrets of Trading The First Pullback/Images/00001.jpeg)
+![[00001.jpeg]]
 
 # 《交易首个回调的秘密》—— 深度重构版
 ### (The Secrets of Trading The First Pullback)

@@ -10,7 +10,7 @@ order: 8
 
 在明确的趋势中，主导力量（Dominant Players）虽然掌控全局，但战斗从未停止。
 
-![Downward Trending Market](/The Secrets of Trading The First Pullback/Images/00002.jpeg)
+![[00002.jpeg]]
 *图 4-1：下跌趋势中的锯齿状波动*
 
 **【深度解析】**：
@@ -24,7 +24,7 @@ order: 8
 
 反转是从一种主导力量向另一种主导力量转移的剧变过程。
 
-![Reversing Market](/The Secrets of Trading The First Pullback/Images/00003.jpeg)
+![[00003.jpeg]]
 *图 4-2：从上涨趋势向下跌趋势的反转*
 
 **【深度解析：滞后者（Laggers）的悲歌】**：
@@ -39,7 +39,7 @@ order: 8
 
 当市场缺乏清晰的领导者时，买卖双方达成了一种暂时的脆弱均衡。
 
-![Sideway Ranging Market](/The Secrets of Trading The First Pullback/Images/00004.jpeg)
+![[00004.jpeg]]
 *图 4-3：侧向震荡的市场结构*
 
 **【深度解析：天花板与地板】**：
@@ -53,10 +53,10 @@ order: 8
 
 真实的交易环境往往是以上三种模式的随机嵌套。
 
-![Mixed Market](/The Secrets of Trading The First Pullback/Images/00005.jpeg)
+![[00005.jpeg]]
 *图 4-4：道琼斯工业指数的混合形态（原始图）*
 
-![Identifying Markets within Markets](/The Secrets of Trading The First Pullback/Images/00006.jpeg)
+![[00006.jpeg]]
 *图 4-5：识别混合市场中的“微观环境”：趋势（箭头）、反转（R）与震荡（方框）*
 
 **【深度解析】**：

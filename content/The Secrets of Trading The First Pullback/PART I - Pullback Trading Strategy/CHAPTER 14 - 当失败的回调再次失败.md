@@ -10,7 +10,7 @@ order: 17
 
 在简单回调中，A 点和 B 点是价格波动的两个极端。我们已知：跌破 A 点代表回调失败。但现在，我们要探讨这种“失败”背后的虚幻。
 
-![Defining the Failure of a Failed Pullback](/The Secrets of Trading The First Pullback/Images/00038.jpeg)
+![[00038.jpeg]]
 *图 6-6：定义“失败的失败”模式图*
 
 **【深层博弈解析】**：
@@ -24,7 +24,7 @@ order: 17
 
 并非所有的“失败之失败”都会立即导致暴涨。有时它预示着更长的犹豫期。
 
-![Gold (1 hour chart) showing a Failure of a Failed Pullback](/The Secrets of Trading The First Pullback/Images/00039.jpeg)
+![[00039.jpeg]]
 *图 6-7：黄金小时图上的虚假破位与后续震荡*
 
 **【实战分析】**：
@@ -38,7 +38,7 @@ order: 17
 
 当大玩家（Big Players）介入“失败之失败”时，真正的机会出现了。
 
-![SP500 Index (4 Hour chart) Shows a long Continuation](/The Secrets of Trading The First Pullback/Images/00040.jpeg)
+![[00040.jpeg]]
 *图 6-8：标普 500 指数中强力的趋势延续*
 
 **【复盘解构】**：

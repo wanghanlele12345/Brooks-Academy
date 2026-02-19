@@ -22,7 +22,7 @@ order: 20
 *   **Fib 范围**：23.6% - 38.2%。
 *   **博弈逻辑**：主导方极度强悍，甚至不给对手任何喘息机会。
 
-![Shallow Pullback Shows Strength](/The Secrets of Trading The First Pullback/Images/00047.jpeg)
+![[00047.jpeg]]
 *图 7-1：浅回调展示的统治力*
 
 **【实战分析】**：如图 7-1 所示，卖方几乎没有给买方任何反击空间。这种回调结束后，价格往往会伴随巨大的惯性继续下挫。
@@ -31,7 +31,7 @@ order: 20
 *   **Fib 范围**：61.8% - 76.4%。
 *   **博弈逻辑**：对手方能够将价格推回至起点附近，说明主导方的控制力正在流失。
 
-![Deep Pullback Shows Weakness](/The Secrets of Trading The First Pullback/Images/00048.jpeg)
+![[00048.jpeg]]
 *图 7-2：深回调预示的趋势衰竭*
 
 **【实战分析】**：如图 7-2 所示，深度回撤（Bar 2）回到了前低（Bar 1）附近，随后价格即便创新高（Bar 3）也显得极其乏力，预示着趋势即将反转。
@@ -42,14 +42,14 @@ order: 20
 
 趋势棒（大实体 K 线）是市场的“脉搏”。
 
-![Buyer and Seller Trend Bars](/The Secrets of Trading The First Pullback/Images/00052.jpeg)
+![[00052.jpeg]]
 *图 7-6：多空趋势棒标准定义图*
 
 **【核心判定标准】**：
 *   **大实体、短影线**：收盘接近最高/最低点。
 *   **动量标志（Momentum）**：如果一根棒的大小是周围棒的数倍，这就是大玩家介入的铁证。
 
-![Gold Showing Sellers Conviction](/The Secrets of Trading The First Pullback/Images/00053.jpeg)
+![[00053.jpeg]]
 *图 7-7：黄金 4 小时图上的空头承诺*
 
 **【实战案例】**：如图 7-7 所示，Bar 1 的巨阴线宣告了卖方的统治力。随后出现的双重顶回调不仅是卖点，更是对大玩家立场的再次确认。
@@ -60,7 +60,7 @@ order: 20
 
 水平位是最客观的线索，因为它只基于一个事实：之前的波动高/低点。
 
-![Creating Support and Resistance Levels](/The Secrets of Trading The First Pullback/Images/00055.jpeg)
+![[00055.jpeg]]
 *图 7-9：阻力变支撑的几何原理*
 
 **【实战洞察】**：

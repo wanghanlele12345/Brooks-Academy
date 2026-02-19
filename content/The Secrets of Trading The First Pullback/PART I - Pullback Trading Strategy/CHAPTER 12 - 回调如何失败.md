@@ -10,7 +10,7 @@ order: 15
 
 正如我们在第 5 章所学，一个标准的上升回调由 ABCD 三段构成。
 
-![Simple Pullback](/The Secrets of Trading The First Pullback/Images/00010.jpeg)
+![[00010.jpeg]]
 *图 6-1：简单回调的理想闭环*
 
 **【逻辑判据】**：
@@ -24,7 +24,7 @@ order: 15
 
 在实战中，我们必须为回调设定明确的边界。
 
-![When Pullbacks are Completed Vs When Pullback Fails](/The Secrets of Trading The First Pullback/Images/00035.jpeg)
+![[00035.jpeg]]
 *图 6-2：回调完成（左）与回调失败（右）的边界对比*
 
 **【深度解析】**：
@@ -48,7 +48,7 @@ order: 15
 
 通过图 6-3，我们可以复盘一个典型的“回调转反转”过程。
 
-![Failed Pullback on USDCHF](/The Secrets of Trading The First Pullback/Images/00036.jpeg)
+![[00036.jpeg]]
 *图 6-3：美瑞日线图上的回调失败全景*
 
 **【复盘解构】**：

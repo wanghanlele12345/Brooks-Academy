@@ -22,7 +22,7 @@ order: 14
 ### A. 38.2% 回撤：强趋势的标志
 这是浅回调的典型量化指标。
 
-![38.2 Fib Pullback](/The Secrets of Trading The First Pullback/Images/00032.jpeg)
+![[00032.jpeg]]
 *图 5-23：38.2% 斐波那契回调示例*
 
 *   **心理学背景**：趋势极度强劲，买方（或卖方）甚至不愿等待价格跌至中点就急于补仓。
@@ -31,7 +31,7 @@ order: 14
 ### B. 50% 回撤：心理中轴线
 50% 虽非严格意义上的斐波那契数，但却是道氏理论的支柱。
 
-![50 Fib Pullback](/The Secrets of Trading The First Pullback/Images/00033.jpeg)
+![[00033.jpeg]]
 *图 5-24：50% 斐波那契回调示例*
 
 *   **心理学背景**：这是市场力量最直接的“一半对一半”博弈。
@@ -40,7 +40,7 @@ order: 14
 ### C. 61.8% 回撤：趋势的终极防线
 这是最著名的黄金分割位。
 
-![61.8 Fib Pullback](/The Secrets of Trading The First Pullback/Images/00034.jpeg)
+![[00034.jpeg]]
 *图 5-25：61.8% 斐波那契回调示例*
 
 *   **心理学背景**：这是回调所能容忍的极限深度。如果价格有效跌破 61.8%，多头趋势的结构性优势将基本瓦解。

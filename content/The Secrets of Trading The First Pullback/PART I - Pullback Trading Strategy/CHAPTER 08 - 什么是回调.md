@@ -20,7 +20,7 @@ order: 11
 
 为了精准捕捉回调，作者引入了 **ABCD 模式** 作为解析工具。一个标准的简单回调由三段旅程（Legs）组成：
 
-![ABCD Pattern](/The Secrets of Trading The First Pullback/Images/00010.jpeg)
+![[00010.jpeg]]
 *图 5-1：ABCD 经典模式结构图*
 
 **三腿逻辑详解（以多头趋势为例）**：
@@ -40,7 +40,7 @@ order: 11
 ### A. 单棒回调（Single Bar Pullback）
 这是最迅捷的回调形式，通常发生在极强的趋势中。
 
-![Example of Single Bar Pullback](/The Secrets of Trading The First Pullback/Images/00011.jpeg)
+![[00011.jpeg]]
 *图 5-2：单棒回调示例（圆圈处）*
 
 *   **特征**：仅由一根对抗趋势的 K 线组成。
@@ -50,7 +50,7 @@ order: 11
 ### B. 多棒回调（Multi Bar Pullback）
 涉及多根 K 线，结构更为复杂，但也更易于观察。
 
-![Example of Multi Bar Pullback](/The Secrets of Trading The First Pullback/Images/00012.jpeg)
+![[00012.jpeg]]
 *图 5-3：多棒回调示例*
 
 *   **特征**：由一连串反向 K 线组成。

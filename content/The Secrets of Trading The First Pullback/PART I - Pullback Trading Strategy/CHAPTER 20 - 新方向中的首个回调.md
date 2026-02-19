@@ -10,7 +10,7 @@ order: 23
 
 首个回调不会突然降临，它总是在旧趋势的废墟上孕育。
 
-![Testing the Extreme in Old Direction](/The Secrets of Trading The First Pullback/Images/00059.jpeg)
+![[00059.jpeg]]
 *图 8-3：旧趋势极端点的终极测试*
 
 **【博弈逻辑拆解】**：
@@ -25,7 +25,7 @@ order: 23
 
 当价格跌破旧支撑位 C 时，奇迹发生了——旧图表的废墟瞬间组成了新图表的骨架。
 
-![First Pullback in New Direction](/The Secrets of Trading The First Pullback/Images/00060.jpeg)
+![[00060.jpeg]]
 *图 8-4：新方向上首个回调的结构演化*
 
 **【结构重构：坐标系位移】**：
